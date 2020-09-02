@@ -1,0 +1,85 @@
+.relative
+    position: relative
+#headerMain
+    position: absolute
+    z-index: 500
+    top: 0
+    left: 0
+    width: 100%
+    padding: 1rem 0
+    background: white
+    .box-sede
+        margin-left: .85rem
+        padding-top: 1.05rem
+        a
+            text-decoration: none
+            i
+                color: $yellow
+                font-size: 1.5em
+            p
+                @extend %archer-bold
+                text-align: right
+                color: $green
+                line-height: .95em
+                text-transform: uppercase
+                font-size: 10px
+                letter-spacing: -.05em
+                @media screen and (min-width: 992px)
+                    font-size: 13px
+    .logoMain
+        position: absolute
+        top: 0
+        left: 0
+        img
+            width: 100px
+            @media screen and (min-width: 992px)
+                width: auto
+    .social
+        a
+            border-radius: 50%
+            width: 23px
+            height: 23px
+            display: block
+            background: $green
+            text-align: center
+            margin-right: .5rem
+            text-decoration: none
+            transition: .5s ease background
+            @media screen and (min-width: 992px)
+                width: 33px
+                height: 33px
+            &.facebook
+                background: $green
+            &.instagram
+                background: $green
+        &:last-child
+            margin-right: 0
+        i
+            font-size: .75rem
+            color: white
+            line-height: 1em
+            position: relative
+            top: -2px 
+            @media screen and (min-width: 992px)
+                font-size: 1.25rem
+                line-height: 1.65em 
+                top: 0px 
+
+           
+    button
+        @extend %archer-semiBold
+        background: $green
+        border: $green
+        margin-left: .5rem
+        border-radius: 10px
+        padding: 0.12rem .5rem
+        font-size: 12px
+        letter-spacing: -.05em 
+        color: white
+        @media screen and (min-width: 992px)
+            font-size: 20px
+            padding: 0.12rem 1.25rem
+            margin-left: .5rem
+        &:hover
+            background: $green
+            color: white

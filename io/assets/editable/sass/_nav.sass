@@ -1,0 +1,35 @@
+nav
+    background: $blue-light2
+    position: relative
+    
+    .owl-item
+        height: 135px 
+    .header-titular
+        position: absolute
+        top: -1rem
+        width: 100%
+    .nav-categories
+        padding: 0rem 0
+        width: 80%
+        margin: auto
+        @media screen and ( min-width: 992px )
+            width: 100%
+        a
+            text-decoration: none
+            display: block
+            height: 100%
+            padding: 1.5rem 0 0rem
+            transition: .5s ease background
+            &:hover,
+            &.active
+                background: $green-light
+        p
+            color: $black
+            font-size: 8px
+            line-height: 1.25em
+            text-align: center
+            text-transform: uppercase
+            margin: 0
+        // svg 
+        //     fill: red
+        //     width:  10px

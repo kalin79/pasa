@@ -1,0 +1,49 @@
+#headerMain
+    position: absolute
+    z-index: 500
+    top: 0
+    left: 0
+    width: 100%
+    padding: 1rem 0
+    background: white
+    .logoMain
+        img
+            width: 100px
+            @media screen and (min-width: 992px)
+                width: auto
+    .social
+        a
+            border-radius: 50%
+            width: 33px
+            height: 33px
+            display: block
+            background: $green-light
+            text-align: center
+            margin-right: .5rem
+            text-decoration: none
+            transition: .5s ease background
+            &:hover
+                background: $blue-light
+                i
+                    color: white 
+        &:last-child
+            margin-right: 0
+        i
+            font-size: 1.25rem
+            color: $blue-light
+            line-height: 1.65em 
+    button
+        @extend %archer-semiBold
+        background: $blue-light
+        border: $blue-light
+        margin-left: .5rem
+        border-radius: 10px
+        padding: 0.12rem .5rem
+        font-size: 14px 
+        @media screen and (min-width: 992px)
+            font-size: 20px
+            padding: 0.12rem 1.25rem
+            margin-left: 1.5rem
+        &:hover
+            background: $green-light
+            color: $blue-light

@@ -1,0 +1,424 @@
+// body
+//     overflow: hidden
+.t-white
+    color: white !important
+.t-green
+    color: $green !important
+.t-black
+    color: black !important
+.t-yellow2
+    color: $yellow-light !important
+.borderOrange
+    border-bottom: 3px solid $orange
+.borderRed
+    border-bottom: 3px solid red
+.borderBlue
+    border-bottom: 3px solid $blue
+.borderBlack
+    border-bottom: 3px solid black
+.borderPurpleDark
+    border-bottom: 3px solid #3f4358
+.borderPurple
+    border-bottom: 3px solid $purple
+.textyellow
+    color: $yellow !important
+.bggreen
+    background: $green !important
+.bgyellow
+    background: $yellow !important
+.bgyellowLight
+    background: $yellow-light !important
+.bgpurple
+    background: $purple !important
+
+.tagua
+    color: $verdeagua !important
+.agredecimiento
+    display: none
+    padding: 3rem 0
+    p
+        @extend %archer-medium
+        color: $blue
+        font-size: 16px
+        text-align: center
+.modal-content
+    background: $yellow-light
+    padding-top: 3rem
+    position: relative
+    .error,
+    .meessageRadio,
+    .meessageRadio2
+        @extend %archer-medium
+        color: red
+        font-size: 12px
+        padding: 0 0 0 1rem  
+        margin: 0
+        
+    .closeModal
+        position: absolute
+        top: 1rem
+        right: 1rem
+        cursor: pointer
+        i
+            color: $green
+            font-size: 2rem
+    .enviarForm
+        @extend %archer-bold
+        padding-left: 3rem
+        padding-right: 3rem
+        color: $green
+        line-height: 1.25em
+    form
+        width: 70%
+        margin: auto
+        padding-top: 1.5rem
+        .row-form
+            margin-bottom: 1rem
+        p,
+        a
+            @extend %archer-bold
+            color: $green
+            font-size: 18px
+            text-align: left
+            line-height: 1em
+            margin: 0
+        p
+            padding-left: .5rem
+        a
+            @extend %archer-medium
+            font-size: 14px
+            color: $green
+            margin-left: .5rem
+        input[type="text"]
+            width: 100%
+            border: 0
+            border-radius: 10px
+            height: 40px
+            @extend %archer-medium
+            font-size: 14px
+            color: $blue
+            padding: 0 1rem
+            &:focus
+                outline: none
+            
+    h2
+        @extend %archer-medium
+        color: $green
+        font-size: 24px
+        text-align: center
+        line-height: 1em
+
+
+.owl-nav
+    margin: 0 !important
+    position: absolute
+    top: 50%
+    transform: translateY(-50%)
+    border: 0px solid red
+    width: 100%
+    height: 40px !important
+    button
+        position: absolute
+        width: 50px
+        height: 50px
+        margin: 0 !important
+        border: 1px solid green
+        &:first-child
+            left: -40px
+        &:last-child
+            right: -40px
+        span
+            font-size: 34px
+            color: $blue
+.separate2
+    width: 100%
+    height: 1.5rem
+.separate3
+    width: 100%
+    height: 2rem
+.img-card
+    width: auto !important
+.bgazul
+    background: $blue !important
+.melon
+    background: $melon !important
+.bgwhite
+    background: white !important
+.celeste
+    background: $blue-light2 !important
+.owl-carousel
+    .owl-stage
+        .owl-item
+            padding-bottom: 2rem
+nav
+    .owl-carousel
+        .owl-stage
+            .owl-item
+                padding-bottom: 0rem
+.bannerMed,
+.bannerFot
+    position: relative
+    top: 0rem
+    margin-top: 1rem
+    margin-bottom: 3rem
+    @media screen and (min-width: 992px)
+        top: -5rem
+        margin-top: 0rem
+
+    a
+        display: block
+    img
+        width: 100%
+        object-fit: cover
+.bannerFot
+    top: 0
+    margin-bottom: 3rem
+    margin-top: .5rem
+.separate
+    width: 100%
+    height: .5rem
+.wrapper-blue
+    background: $blue
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 12rem 
+.box-days,
+.box-days-desktop
+    position: relative
+    z-index: 200
+    display: none
+    @media screen and (min-width: 992px)
+        display: block
+    &.posTop
+        top: -10rem
+    &.posTop2
+        top: -8rem
+    &.posTop3
+        margin-top: 3rem
+    &.posTop1
+        margin-top: 1rem
+    &.posTop4
+        margin-top: 2rem
+.box-days-desktop
+    display: block
+    @media screen and (min-width: 992px)
+        display: none
+.bggray
+    background: $gray
+.bgorange
+    background: $orange
+    h5,
+    p
+        color: white !important
+.bgblack
+    background: black !important
+    h5,
+    p
+        color: white !important
+.bgblue
+    background: $blue !important
+    h5,
+    p
+        color: white !important
+
+.bggreen-light
+    background: $green-light
+.flotante
+    position: absolute
+// Cartas
+.cardBack,
+.cardFront 
+    padding: 3.5rem 0rem 0rem
+    position: absolute
+    width: 100%
+    height: 260px
+    backface-visibility: hidden
+    -webkit-backface-visibility: hidden
+    -moz-backface-visibility: hidden
+    -ms-backface-visibility: hidden
+    &.p1
+        padding-top: 1rem
+        padding-right: 1rem
+.cardCont
+    height: 260px
+    &.h2
+        height: 300px
+        .cardFront,
+        .cardBack
+            height: 300px
+.card,
+.cardCont
+    border: 0
+    background-color: transparent
+    // margin-right: .5rem
+    border-radius: 0 !important
+    width: 100%
+    position: relative
+    padding: 3.5rem 0rem 0rem
+    @media screen and ( min-width: 992px )
+        padding: 0
+        width: 31%
+    // overflow: hidden
+    &.p1
+        padding-top: 1rem
+        padding-right: 1rem
+    &:last-child
+        margin-right: 0
+    .sombra
+        position: absolute
+        left: 50%
+        transform: translateX(-50%)
+        bottom: -2.5rem
+        @media screen and (min-width: 1200px)
+            bottom: -2.75rem
+        opacity: .4
+        img
+            width: 250px
+            @media screen and (min-width: 1200px)
+                width: auto
+    .card-body
+        margin: auto 
+        text-align: center
+        &.back
+            padding: 0
+        &.textblue,
+        &.textblack,
+        &.white,
+        &.textyellow,
+        &.green,
+        &.green2
+            text-align: left
+            h5
+                @extend %archer-semiBold
+                color: white
+                text-align: left
+                &.small
+                    font-size: 25px
+                span
+                    @extend %akrobat
+                    font-size: 110px
+                    line-height: 5.5rem
+        &.textyellow
+            h5
+                color: $yellow !important
+                span
+                    color: $yellow
+        &.textblack
+            h5
+                color: black
+                span
+                    color: black
+        &.textblue
+            h5
+                color: $blue
+                span
+                    color: $blue
+        &.green
+            h5
+                color: $green-light
+                span
+                    color: $green-light
+        &.green2
+            h5
+                color: $green
+                span
+                    color: $green
+
+        p
+            @extend %Montserrat-bold
+            font-size: 7px
+            color: black
+            letter-spacing: -.05em
+            margin: 3rem 0 0 
+            text-align: center
+            padding: 0rem
+            @media screen and (min-width: 992px)
+                padding: 0 1rem
+                font-size: 10px
+            &.white
+                color: white
+            &.m2
+                margin-top: 1.75rem 
+        a
+            @extend %archer-semiBold
+            cursor: default 
+            background: $blue
+            border-radius: 20px
+            border: $blue 
+            margin-top: 2rem
+            font-size: 16px
+            display: inline-block
+            padding-left: 1rem 
+            padding-right: 1rem
+            @media screen and (min-width: 1200px)
+                font-size: 20px
+                padding-left: 2rem 
+                padding-right: 2rem
+        h3
+            @extend %akrobat
+            color: white
+            text-transform: uppercase
+            text-align: center
+            margin: .75rem 0 0
+            line-height: 1em
+            font-size: 20px
+            @media screen and (min-width: 1200px)
+                font-size: 30px
+        h5
+            @extend %akrobat
+            color: $blue
+            text-transform: uppercase
+            text-align: center
+            margin: 0
+            line-height: 1em
+            font-size: 40px
+            @media screen and (min-width: 1200px)
+                font-size: 50px
+.header-titular
+    width: 100%
+    position: relative
+    .box-title,
+    .box-subtitle
+        background: white
+        display: inline-block
+        padding: 0 1rem
+        border-radius: 20px
+        position: relative
+        z-index: 10
+        @media screen and (min-width: 1200px)
+            padding: 0 2.5rem
+        h2
+            @extend %archer-semiBold
+            color: $blue
+            margin: 0
+            text-transform: uppercase
+        &.bgceleste
+            background: $blue-light2
+        &.bgazul
+            background: $blue
+            h2
+                color: white
+    .box-subtitle
+        background: transparent
+        border-radius: 0px
+        h2
+            font-size: 16px
+            color: $blue
+            text-transform: none
+            line-height: 2.5em
+            &.azul
+                color: $blue
+    .linea
+        width: 50%
+        background: $green-light
+        height: 1px
+        top: 50%
+        transform: translateY(-50%) 
+        &.pos1
+            right: 50%
+            width: 50%
+        &.pos2
+            left: 50%
+            width: 50%
