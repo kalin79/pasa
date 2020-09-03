@@ -153,7 +153,7 @@ $(document).ready(function(){
     $('.owl-fulldays').owlCarousel({
         // animateOut: 'fadeOut',
         loop:true,
-        margin:0,
+        margin:1,
         autoplay:true,
         autoplayTimeout: 5000,
         autoplayHoverPause:true,
