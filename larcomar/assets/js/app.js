@@ -154,7 +154,7 @@ $(document).ready(function(){
         // animateOut: 'fadeOut',
         loop:true,
         margin:0,
-        autoplay:true,
+        autoplay:false,
         autoplayTimeout: 5000,
         autoplayHoverPause:true,
         nav: true,
