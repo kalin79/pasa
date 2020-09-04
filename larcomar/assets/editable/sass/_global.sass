@@ -292,11 +292,13 @@ nav
                     font-size: 25px
                 span
                     @extend %akrobat
-                    font-size: 110px
+                    font-size: 105px
                     line-height: 5rem
                     &.small
                         font-size: 80px
                         letter-spacing: -.05em
+            .blue
+                color: $blue
         &.green
             h5
                 color: $green-light
@@ -345,6 +347,12 @@ nav
             font-size: 40px
             @media screen and (min-width: 1200px)
                 font-size: 50px
+.cardDl
+    padding: 1rem 1rem 0rem 0rem
+    .card-body
+        h5
+            color: $blue
+            font-size: 110px
 .header-titular
     width: 100%
     position: relative

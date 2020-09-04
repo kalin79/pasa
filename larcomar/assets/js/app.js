@@ -137,7 +137,7 @@ $(document).ready(function(){
     $('.owl-days').owlCarousel({
         // animateOut: 'fadeOut',
         loop:false,
-        margin:0,
+        margin:1,
         autoplay:true,
         autoplayTimeout: 5000,
         autoplayHoverPause:true,
