@@ -248,6 +248,8 @@ nav
         .cardFront,
         .cardBack
             height: 300px
+.hideCard
+    opacity: 0
 .card,
 .cardCont
     border: 0
@@ -293,13 +295,63 @@ nav
             h5
                 @extend %archer-semiBold
                 color: white
-                text-align: left
+                text-align: center
                 &.small
                     font-size: 25px
+                &.lineh-title
+                    line-height: 1.7rem
+                &.textplay
+                    line-height: 2rem
+                    font-size: 34px
                 span
                     @extend %akrobat
                     font-size: 110px
                     line-height: 5.5rem
+                .text-choripan
+                    font-size: 45px
+                .text-dcafe
+                    font-size: 40px
+                    line-height: 2.5rem
+                .textFree
+                    line-height: 2.5rem
+                    font-size: 47px
+                .text-peak
+                    line-height: 2rem
+                    font-size: 39px
+                .text-store
+                    font-size: 30px
+                    line-height: 2rem
+                .cxd
+                    font-size: 60px
+                .nxd
+                    font-size: 74px
+                .textB
+                    font-size: 37px
+                    line-height: 1.5rem
+                .cent
+                    font-size: 98px
+                .mCent
+                    font-size: 80px
+                .mCentD
+                    font-size: 70px
+                .mtextPs
+                    font-size: 42px
+                    line-height: 2.5rem
+                .mtextC
+                    font-size: 50px
+                .mtextCdl
+                    font-size: 50px
+                    line-height: 3rem
+                .mGlace
+                    font-size: 43px
+                    line-height: 2rem
+                .mSabP
+                    font-size: 35px
+                    line-height: 1.5rem
+                .mencanta2
+                    font-size: 100px
+            .mDescription
+                font-size: 16px
         &.textyellow
             h5
                 color: $yellow !important
@@ -331,12 +383,13 @@ nav
             font-size: 7px
             color: black
             letter-spacing: -.05em
-            margin: 3rem 0 0 
+            margin: 1rem 0 0 
             text-align: center
             padding: 0rem
             @media screen and (min-width: 992px)
                 padding: 0 1rem
                 font-size: 10px
+                margin: 1rem 0 0
             &.white
                 color: white
             &.m2
