@@ -33,6 +33,14 @@ $(document).ready(function(){
     // // .addIndicators({name: "1 (duration: 300)"}) // add indicators (requires plugin)
     // .addTo(controller);
 
+    $(".btn-category").click(function(){
+        var _name = $(this).data('name');
+        $("#"+_name).removeClass("novisible")
+        console.log(_name)
+    })
+
+
+
     CSSPlugin.defaultTransformPerspective = 1000;
     //we set the backface 
     TweenMax.set($(".cardBack"), {rotationY:-180});
@@ -168,7 +176,7 @@ $(document).ready(function(){
 
     $('.owl-categories').owlCarousel({
         // animateOut: 'fadeOut',
-        loop:true,
+        loop:false,
         margin:0,
         autoplay:true,
         autoplayTimeout: 5000,
