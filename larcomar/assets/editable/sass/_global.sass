@@ -130,8 +130,12 @@
         width: 95px !important
     &.w-90
         width: 90px !important
+    &.w-85
+        width: 85px !important
     &.w-80
         width: 80px !important
+    &.w-75
+        width: 75px !important
     &.w-70
         width: 70px !important
     &.w-65
@@ -140,8 +144,12 @@
         width: 60px !important
     &.w-55
         width: 55px !important
+    &.w-50
+        width: 50px !important
     &.w-45
         width: 45px !important
+    &.w-25
+        width: 25px !important
     // height: 40px !important
 .cardFront
     .d-flex
@@ -265,6 +273,10 @@ nav
     &.p1
         padding-top: 1rem
         padding-right: 1rem
+        .mHeightLogo
+            height: 30px
+            border: 1px solid red
+            position: relative
     &:last-child
         margin-right: 0
     .sombra
@@ -293,11 +305,13 @@ nav
                     font-size: 25px
                 span
                     @extend %akrobat
-                    font-size: 110px
+                    font-size: 105px
                     line-height: 5rem
                     &.small
                         font-size: 80px
                         letter-spacing: -.05em
+            .blue
+                color: $blue
         &.green
             h5
                 color: $green-light
@@ -306,7 +320,7 @@ nav
 
         p
             @extend %Montserrat-bold
-            font-size: 7px
+            font-size: 6px
             color: black
             letter-spacing: -.05em
             margin: 1rem 0 0 
@@ -346,6 +360,12 @@ nav
             font-size: 40px
             @media screen and (min-width: 1200px)
                 font-size: 50px
+.cardDl
+    padding: 1rem 1rem 0rem 0rem
+    .card-body
+        h5
+            color: $blue
+            font-size: 110px
 .header-titular
     width: 100%
     position: relative

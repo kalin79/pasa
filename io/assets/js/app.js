@@ -132,7 +132,8 @@ $(document).ready(function(){
         nav:true,
         responsive:{
             0:{
-                items:1
+                items:1,
+                margin:1.5
             }
             
         }
@@ -141,7 +142,7 @@ $(document).ready(function(){
     $('.owl-fulldays').owlCarousel({
         // animateOut: 'fadeOut',
         loop:true,
-        margin:0,
+        margin:1,
         autoplay:true,
         autoplayTimeout: 5000,
         autoplayHoverPause:true,
