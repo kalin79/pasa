@@ -24,7 +24,7 @@ function startAnimation(index) {
 }
 
 function callback(event){
-    startAnimation(event.page.index)
+    // startAnimation(event.page.index)
 }
 $(document).ready(function(){
     // var controller = new ScrollMagic.Controller();
@@ -34,8 +34,12 @@ $(document).ready(function(){
     // .addTo(controller);
 
     $(".btn-category").click(function(){
+
+        $(".btn-category").removeClass("active");
         var _name = $(this).data('name');
+        $(".category-all").addClass("novisible")
         $("#"+_name).removeClass("novisible")
+        $(this).addClass("active")
         console.log(_name)
     })
 
@@ -123,9 +127,9 @@ $(document).ready(function(){
         return false;
     })
 
-    setTimeout(function(){ 
-        startAnimation(0)
-     }, 100);
+    // setTimeout(function(){ 
+    //     startAnimation(0)
+    //  }, 100);
 
     $('.owl-banner').owlCarousel({
         // animateOut: 'fadeOut',
@@ -134,7 +138,7 @@ $(document).ready(function(){
         autoplay:true,
         autoplayTimeout: 6000,
         autoplayHoverPause:true,
-        onTranslate: callback,
+        // onTranslate: callback,
         responsive:{
             0:{
                 items:1

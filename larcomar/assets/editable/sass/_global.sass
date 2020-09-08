@@ -1,5 +1,9 @@
 // body
 //     overflow: hidden 
+.fullImg
+    width: 100%
+    height: 100%
+    object-fit: cover
 .novisible
     display: none
 .svg-100x30
@@ -85,7 +89,9 @@
         text-align: center
         line-height: 1em
 
-
+.owl-carousel,
+.owl-stage-outer
+    z-index: 20
 .owl-nav
     margin: 0 !important
     position: absolute
@@ -151,12 +157,18 @@
     &.w-25
         width: 25px !important
     // height: 40px !important
+.card
+    .d-flex
+        // background: red
+        border: 0px solid red
+        position: relative
+        height: 30px
 .cardFront
     .d-flex
         // background: red
-        border: 1px solid red
+        border: 0px solid red
         position: relative
-        height: 45px
+        height: 30px
 .bgazul
     background: $blue !important
 .melon
@@ -275,7 +287,7 @@ nav
         padding-right: 1rem
         .mHeightLogo
             height: 30px
-            border: 1px solid red
+            border: 0px solid red
             position: relative
     &:last-child
         margin-right: 0
@@ -305,8 +317,9 @@ nav
                     font-size: 25px
                 span
                     @extend %akrobat
-                    font-size: 105px
+                    font-size: 90px
                     line-height: 5rem
+                    letter-spacing: -.05em
                     &.small
                         font-size: 80px
                         letter-spacing: -.05em
@@ -412,3 +425,8 @@ nav
         &.pos2
             left: 50%
             width: 50%
+
+.cardBack
+    padding-top: 1rem
+    .card-body
+        padding-top: 0
