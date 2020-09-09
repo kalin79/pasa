@@ -20,6 +20,23 @@ $(document).ready(function(){
     // .setClassToggle("#pin1", "active") // add class toggle
     // // .addIndicators({name: "1 (duration: 300)"}) // add indicators (requires plugin)
     // .addTo(controller);
+    $(".btn-category").click(function(){
+        
+        $(".btn-category").removeClass("active");
+        var _name = $(this).data('name');
+        $(".category-all").addClass("novisible");
+        $("#"+_name).removeClass("novisible");
+        $(this).addClass("active");
+        console.log(_name)
+
+        $(".btn-category2").removeClass("active");
+        var _name2 = $(this).data('name')+ "2";
+        $(".category-all2").addClass("novisible");
+        $("#"+_name2).removeClass("novisible");
+        $(this).addClass("active");
+        console.log(_name2)
+    })
+
 
     CSSPlugin.defaultTransformPerspective = 1000;
     //we set the backface 
@@ -158,7 +175,7 @@ $(document).ready(function(){
     $('.owl-categories').owlCarousel({
         // animateOut: 'fadeOut',
         loop:true,
-        margin:0,
+        margin:1,
         autoplay:true,
         autoplayTimeout: 5000,
         autoplayHoverPause:true,

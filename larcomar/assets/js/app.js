@@ -37,10 +37,17 @@ $(document).ready(function(){
 
         $(".btn-category").removeClass("active");
         var _name = $(this).data('name');
-        $(".category-all").addClass("novisible")
-        $("#"+_name).removeClass("novisible")
-        $(this).addClass("active")
+        $(".category-all").addClass("novisible");
+        $("#"+_name).removeClass("novisible");
+        $(this).addClass("active");
         console.log(_name)
+
+        $(".btn-category2").removeClass("active");
+        var _name2 = $(this).data('name')+ "2";
+        $(".category-all2").addClass("novisible");
+        $("#"+_name2).removeClass("novisible");
+        $(this).addClass("active");
+        console.log(_name2)
     })
 
 

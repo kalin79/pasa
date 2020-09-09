@@ -1,5 +1,20 @@
 // body
 //     overflow: hidden
+.fullImg
+    width: 100%
+    height: 100%
+    object-fit: cover
+.novisible
+    display: none
+.svg-100x30
+    color: white
+    width: 110px
+    height: 30px
+    fill: white
+.img-svg
+    position: absolute
+    top: 0
+    right: 0
 .t-black
     color: black !important
 .borderOrange
@@ -91,7 +106,9 @@
         text-align: center
         line-height: 1em
 
-
+.owl-carousel,
+.owl-stage-outer
+    z-index: 20
 .owl-nav
     margin: 0 !important
     position: absolute
@@ -156,6 +173,12 @@
         width: 45px !important
     &.w-25
         width: 25px !important
+.card
+    .d-flex
+        // background: red
+        border: 0px solid red
+        position: relative
+        height: 30px
 .cardFront
     .d-flex
         // background: red
@@ -340,6 +363,18 @@ nav
                 color: $yellow !important
                 span
                     color: $yellow
+                .title-category
+                    font-size: 65px
+                    line-height: 3rem
+                .title-mossa
+                    font-size: 75px
+                    line-height: 3rem
+                .title-nacion
+                    font-size: 50px
+                    line-height: 2rem
+                .m-title-nacion
+                    font-size: 60px
+                    line-height: 3rem
         &.textblack
             h5
                 color: black
@@ -380,7 +415,9 @@ nav
             &.white
                 color: white
             &.m2
-                margin-top: 1.75rem 
+                margin-top: 1.75rem
+            &.textyellow
+                    color: $yellow !important
         .nm
             margin: 0
         a
