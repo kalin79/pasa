@@ -182,7 +182,6 @@
 .cardFront
     .d-flex
         // background: red
-        border: 1px solid red
         position: relative
         height: 45px
 .bgazul
@@ -351,8 +350,12 @@ nav
                     font-size: 25px
                 span
                     @extend %akrobat
-                    font-size: 105px
+                    font-size: 102px
                     line-height: 5rem
+                    @media screen and (min-width: 992px)
+                        font-size: 89px
+                    @media screen and (min-width: 1200px)
+                        font-size: 102px
                 .pxp
                     font-size: 85px
                     line-height: 3.5rem
@@ -367,8 +370,11 @@ nav
                     font-size: 65px
                     line-height: 3rem
                 .title-mossa
-                    font-size: 75px
-                    line-height: 3rem
+                    @media screen and (min-width: 992px)
+                        font-size: 60px
+                        line-height: 3rem
+                    @media screen and (min-width: 1200px)
+                        font-size: 75px
                 .title-nacion
                     font-size: 50px
                     line-height: 2rem
@@ -384,8 +390,11 @@ nav
                 .textwhite
                     color: white
                 .sc
-                    font-size: 42px
-                    line-height: 2.5rem
+                    font-size: 31px
+                    line-height: 1.5rem
+                    @media screen and (min-width: 1200px)
+                        font-size: 42px
+                        line-height: 2.5rem
                 .mSc
                     font-size: 72px
                     line-height: 3.5rem
