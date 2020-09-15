@@ -1,5 +1,28 @@
-// body
-//     overflow: hidden 
+body
+    background: #e8eff5
+section
+    background: white
+.separate-section
+    width: 100%
+    height: 20px
+    background: white
+
+.scrollGsap
+    position: relative
+    background: white
+    top: 0px
+    padding-top: 3rem
+    @media screen and (min-width: 992px)
+        top: -180px
+        padding-top: 0rem
+
+.posSection
+    position: relative
+    &.pos80
+        top: 0px
+        @media screen and (min-width: 992px)
+            top: -80px
+
 .fullImg
     width: 100%
     height: 100%
@@ -195,8 +218,9 @@ nav
 .bannerFot
     position: relative
     top: 0rem
-    margin-top: 1rem
-    margin-bottom: 3rem
+    padding-top: 1rem
+    padding-bottom: 3rem
+    background: white
     @media screen and (min-width: 992px)
         top: -5rem
         margin-top: 0rem
@@ -208,8 +232,8 @@ nav
         object-fit: cover
 .bannerFot
     top: 0
-    margin-bottom: 3rem
-    margin-top: .5rem
+    padding-bottom: 3rem
+    padding-top: .5rem
 .separate
     width: 100%
     height: .5rem
@@ -224,9 +248,9 @@ nav
 .box-days-desktop
     position: relative
     z-index: 200
-    display: none
-    @media screen and (min-width: 992px)
-        display: block
+    // display: none
+    // @media screen and (min-width: 992px)
+    //     display: block
     &.posTop
         top: -10rem
     &.posTop2
@@ -275,11 +299,11 @@ nav
     // margin-right: .5rem
     border: 0
     background: transparent
-    padding: 3.5rem 0rem 0rem
+    padding: 0
     width: 100%
     position: relative
     @media screen and ( min-width: 992px )
-        width: 31%
+        // width: 31%
         padding: 0
     // overflow: hidden
     &.p1
@@ -369,7 +393,7 @@ nav
         h5
             @extend %akrobat
             color: $blue
-            text-transform: uppercase
+            // text-transform: uppercase
             text-align: center
             margin: 0
             line-height: 1em

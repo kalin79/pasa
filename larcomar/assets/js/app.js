@@ -33,166 +33,70 @@ $(document).ready(function(){
     // // .addIndicators({name: "1 (duration: 300)"}) // add indicators (requires plugin)
     // .addTo(controller);
 
-    $(".btn-category").click(function(){
+    // $(".btn-category").click(function(){
 
-        $(".btn-category").removeClass("active");
-        var _name = $(this).data('name');
-        $(".category-all").addClass("novisible");
-        $("#"+_name).removeClass("novisible");
-        $(this).addClass("active");
-        console.log(_name)
+    //     $(".btn-category").removeClass("active");
+    //     var _name = $(this).data('name');
+    //     var _category = $(this).data('category');
+    //     $(".category-all").addClass("novisible");
+    //     $("#"+_name).removeClass("novisible");
+    //     $(this).addClass("active");
+    //     console.log(_name)
 
-        $(".btn-category2").removeClass("active");
-        var _name2 = $(this).data('name')+ "2";
-        $(".category-all2").addClass("novisible");
-        $("#"+_name2).removeClass("novisible");
-        $(this).addClass("active");
-        console.log(_name2)
-    })
+    //     $(".btn-category2").removeClass("active");
+    //     var _name2 = $(this).data('name')+ "2";
+    //     $(".category-all2").addClass("novisible");
+    //     $("#"+_name2).removeClass("novisible");
+    //     $(this).addClass("active");
+    //     console.log(_name2);
+
+
+    // })
 
 
 
-    CSSPlugin.defaultTransformPerspective = 1000;
-    //we set the backface 
-    TweenMax.set($(".cardBack"), {rotationY:-180});
+    // CSSPlugin.defaultTransformPerspective = 1000;
+    // //we set the backface 
+    // TweenMax.set($(".cardBack"), {rotationY:-180});
 
-    $.each($(".cardCont"), function(i,element) {
+    // $.each($(".cardCont"), function(i,element) {
   
-        var frontCard = $(this).children(".cardFront"),
-            backCard = $(this).children(".cardBack"),
-            tl = new TimelineMax({paused:true});
+    //     var frontCard = $(this).children(".cardFront"),
+    //         backCard = $(this).children(".cardBack"),
+    //         tl = new TimelineMax({paused:true});
         
-            tl
-                .to(frontCard, 1, {rotationY:180})
-                .to(backCard, 1, {rotationY:0},0)
-                .to(element, .5, {z:50},0)
-                .to(element, .5, {z:0},.5);
+    //         tl
+    //             .to(frontCard, 1, {rotationY:180})
+    //             .to(backCard, 1, {rotationY:0},0)
+    //             .to(element, .5, {z:50},0)
+    //             .to(element, .5, {z:0},.5);
         
-        element.animation = tl;
+    //     element.animation = tl;
       
-    });
+    // });
 
-    $(".cardCont").hover(elOver, elOut);
+    // $(".cardCont").hover(elOver, elOut);
 
-    function elOver() {
-        this.animation.play();
-    }
+    // function elOver() {
+    //     this.animation.play();
+    // }
     
-    function elOut() {
-        this.animation.reverse();
-    }
-    
-    $("#formSuscription").validate({
-        rules: {
-            name: "required",
-            email: {
-                required: true,
-                email: true
-            },
-            movil: "required",
-            sexo:  "required"
-        },
-        messages: {
-            name: {
-                required:"El campo nombre es obligatorio"
-            },
-            email: {
-                required:"El campo correo electrónico es obligatorio"
-            },
-            movil: {
-                required:"El campo teléfono es obligatorio"
-            },
-        },
-        errorPlacement: function(error, element)
-        {
-            if ( element.is(":radio") ) 
-            {
-                $(".meessageRadio").html("El campo género es obligatorio")
-            }
-            else 
-            { // This is the default behavior 
-                error.insertAfter( element );
-            }
-        }
-    });
-
-    $(".enviarForm").click(function(){
-        var $acepto = $('input:checkbox[name=term]:checked').val();
-        console.log($acepto)
-        if ($("#formSuscription").valid()) {
-            
-            if ($acepto != "si"){
-                $(".meessageRadio2").html("Debe aceptar las políticas de privacidad.")
-                return false;
-            }else{
-                $("#formSuscription").fadeOut("slow")
-                $(".agredecimiento").fadeIn('slow')
-            }
-        }else{
-            console.log("Campos sin completar")
-        }
-        return false;
-    })
-
+    // function elOut() {
+    //     this.animation.reverse();
+    // }
+   
     // setTimeout(function(){ 
     //     startAnimation(0)
     //  }, 100);
 
     $('.owl-banner').owlCarousel({
         // animateOut: 'fadeOut',
-        loop:true,
+        loop:false,
         margin:0,
         autoplay:true,
         autoplayTimeout: 6000,
         autoplayHoverPause:true,
         // onTranslate: callback,
-        responsive:{
-            0:{
-                items:1
-            }
-            
-        }
-    });
-    $('.owl-days').owlCarousel({
-        // animateOut: 'fadeOut',
-        loop:false,
-        margin:1,
-        autoplay:true,
-        autoplayTimeout: 5000,
-        autoplayHoverPause:true,
-        nav:true,
-        responsive:{
-            0:{
-                items:1
-            }
-            
-        }
-    });
-
-    $('.owl-fulldays').owlCarousel({
-        // animateOut: 'fadeOut',
-        loop:true,
-        margin:1,
-        autoplay:true,
-        autoplayTimeout: 5000,
-        autoplayHoverPause:true,
-        nav: true,
-        responsive:{
-            0:{
-                items:1
-            }
-            
-        }
-    });
-
-    $('.owl-categories').owlCarousel({
-        // animateOut: 'fadeOut',
-        loop:false,
-        margin:0,
-        autoplay:true,
-        autoplayTimeout: 5000,
-        autoplayHoverPause:true,
-        nav: true,
         responsive:{
             0:{
                 items:1
