@@ -420,30 +420,6 @@
         "category": "VESTUARIO"
     },
     {
-        "logo" : "assets/image/logo/haagen dazs-07.svg",
-        "logoB" : "assets/image/logo/blanco/haagendasz.png",
-        "wlogo": "w-120",
-        "nombre" : "Häagen-Dazs",
-        "titulo" : "", 
-        "subtitulo" : "20%", 
-        "descripcion" : "dscto. sabor del mes",
-        "legal": "Sabor del mes sujeto a disponibilidad de tienda.",
-        "publish": true,
-        "category": "COMIDAS"
-    },
-    {
-        "logo" : "assets/image/logo/haagen dazs-07.svg",
-        "logoB" : "assets/image/logo/blanco/haagendasz.svg",
-        "wlogo": "w-120",
-        "nombre" : "Häagen-Dazs",
-        "titulo" : "", 
-        "subtitulo" : "20%", 
-        "descripcion" : "dscto. sabor del mes",
-        "legal": "Sabor del mes sujeto a disponibilidad de tienda.",
-        "publish": true,
-        "category": "COMIDAS"
-    },
-    {
         "logo" : "assets/image/logo/sra-buendia.png",
         "logoB" : "assets/image/logo/blanco/sra-buendia.png",
         "wlogo": "w-110",
@@ -553,7 +529,7 @@
     },
     {
         "logo" : "assets/image/logo/haagen dazs-07.svg",
-        "logoB" : "assets/image/logo/blanco/haagendasz.svg",
+        "logoB" : "assets/image/logo/blanco/haagendasz.png",
         "wlogo": "w-120",
         "nombre" : "HAAGEN DAZS",
         "titulo" : "", 
