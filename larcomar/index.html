@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="node_modules/owl.carousel/dist/assets/owl.carousel.min.css" />
     <link rel="stylesheet" href="node_modules/owl.carousel/dist/assets/owl.theme.default.min.css" />
     <link rel="stylesheet" href="https://allyoucan.cloud/cdn/icofont/1.0.1/icofont.css">
-    <link rel="stylesheet" href="assets/css/main.css?v=9" >
+    <link rel="stylesheet" href="assets/css/main.css?v=11" >
 </head>
 <body>
     <div id="app">
@@ -244,10 +244,65 @@
             <div class="separate-section"></div>
             <section>
                 
-                <div class="box-days">
+                <div class="box-days carousel-movil">
                     <!-- <div class="wrapper-blue"></div> -->
                     <div class="container">
-                        <div id="idcalzado" class="category-all">
+                        <div class="row">
+                            <div class="col-1"></div>
+                            <div class="col-10">
+                                <div class="header-titular d-flex justify-content-center">
+                                    <div class="linea pos1 flotante celeste"></div>
+                                    <div class="box-title bgceleste">
+                                        <h2>{{ nameCategory }}</h2>
+                                    </div>
+                                    <div class="linea pos2 flotante celeste"></div>
+                                </div>
+                                
+                                <div class="separate2"></div>
+                            </div>
+                            <div class="col-1"></div>
+                        </div>
+                        <div class="separate"></div>
+                        <div class="row">
+                            <div class="col-1"></div>
+                            <div class="col-10">
+                                <div class="owl-carousel owl-theme owl-categories2">
+                                    <div class="card bgazul borderRed p1" v-for="(item, index) in productsCategory2" :key="index">
+                                        <div class="d-flex justify-content-end">
+                                            <img :src="item.logoB" class="img-card" :class="item.wlogo" :alt="item.nombre">
+                                        </div>
+                                        <div class="card-body left white">
+                                            <h5 class="card-title small">{{ item.titulo }} <br><span>{{ item.subtitulo }}</span></h5>
+
+                                            <!-- <a href="#" class="btn btn-primary">Hasta agotar stock</a> -->
+                                            <p class="white">
+                                                {{ item.descripcion  }}
+                                            </p>
+                                            <p class="white">
+                                                {{ item.legal }}
+                                            </p>
+                                        </div>
+                                        <picture class="sombra">
+                                            <source srcset="assets/image/sombra.png">
+                                            <img srcset="assets/image/sombra.png" alt="sombra">
+                                        </picture>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-1"></div>
+                        </div>
+                        <div class="separate"></div>
+                    </div>
+                </div>
+
+
+
+
+                <div class="box-days carousel-desktop">
+                    <!-- <div class="wrapper-blue"></div> -->
+                    <div class="container">
+                        <div>
                             <div class="row">
                                 <div class="col-1"></div>
                                 <div class="col-10">
@@ -490,7 +545,7 @@
     <script src="node_modules/gsap/dist/gsap.js"></script>
     <script src="node_modules/gsap/dist/ScrollToPlugin.js"></script>
     <script src="node_modules/owl.carousel/dist/owl.carousel.min.js"></script>
-    <script src="assets/js/app.js?v=22"></script>
-    <script src="assets/js/vuejs.js?v=22"></script>
+    <script src="assets/js/app.js?v=25"></script>
+    <script src="assets/js/vuejs.js?v=25"></script>
 </body>
 </html>

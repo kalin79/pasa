@@ -259,10 +259,14 @@ nav
         margin-top: 3rem
     &.posTop4
         margin-top: 2rem
-.box-days-desktop
+.carousel-movil
     display: block
     @media screen and (min-width: 992px)
         display: none
+.carousel-desktop
+    display: none
+    @media screen and (min-width: 992px)
+        display: block
 .bggray
     background: $gray
 .bggreen-light
@@ -434,10 +438,12 @@ nav
         background: transparent
         border-radius: 0px
         h2
-            font-size: 16px
+            font-size: 12px
             color: $green-light 
             text-transform: none
             line-height: 2.5em
+            @media screen and (min-width: 992px)
+                font-size: 16px
             &.azul
                 color: $blue
     .linea

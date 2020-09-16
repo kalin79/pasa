@@ -131,6 +131,7 @@
         "category": "VESTUARIO"
     },
     {
+<<<<<<< HEAD
         "logo" : "assets/image/logo/vivo-hogar.png",
         "logoB" : "assets/image/logo/blanco/vivo-hogar.png",
         "wlogo": "w-45",
@@ -147,6 +148,12 @@
         "logoB" : "assets/image/logo/blanco/o-neill.png",
         "wlogo": "w-140",
         "nombre" : "O'Neill",
+=======
+        "logo" : "assets/image/logo/sra-buendia.png",
+        "logoB" : "assets/image/logo/blanco/sra-buendia.png",
+        "wlogo": "w-110",
+        "nombre" : "Tejas y chocotejas Sra. Buendia",
+>>>>>>> 998492154ed887e684c721b5be08b1385c69b007
         "titulo" : "", 
         "subtitulo" : "S./99", 
         "descripcion" : "Polos manga corta 3",
@@ -165,6 +172,81 @@
         "legal": "Promoción válida hasta el 30 de setiembre de 2020 o hasta agotar stock. Stock mínimo de 2 unidades por producto. No acumulable con otras promociones o descuentos de la tienda. Para mayor información comunicarse con un representante de la tienda",
         "publish": true,
         "category": "VESTUARIO"
+<<<<<<< HEAD
+=======
+    },
+    {
+        "logo" : "assets/image/logo/lucio-cafe.png",
+        "logoB" : "assets/image/logo/blanco/lucio_cafe_logo_blanco.png",
+        "wlogo": "w-50",
+        "nombre" : "LUCIO CAFFE",
+        "titulo" : "Desayunos Lucio", 
+        "subtitulo" : "S./9.90", 
+        "descripcion" : "",
+        "legal": "Promoción válida por tiempo limitado y/o hasta agotar stock de 20 und. No válida con otras promociones y/o descuentos. No se pueden cambiar o reemplazar los productos de la promoción. Fotos referenciales. Puede variar sin previo aviso.",
+        "publish": true,
+        "category": "COMIDAS"
+    },
+    {
+        "logo" : "assets/image/logo/lucio-cafe.png",
+        "logoB" : "assets/image/logo/blanco/lucio_cafe_logo_blanco.png",
+        "wlogo": "w-50",
+        "nombre" : "LUCIO CAFFE",
+        "titulo" : "Almuerzos a tu medida", 
+        "subtitulo" : "S./16.90", 
+        "descripcion" : "",
+        "legal": "Promoción válida por tiempo limitado y/o hasta agotar stock de 100 und. No válida con otras promociones y/o descuentos. No se pueden cambiar o reemplazar los productos de la promoción. Fotos referenciales. Puede variar sin previo aviso.",
+        "publish": true,
+        "category": "COMIDAS"
+    },
+    {
+        "logo" : "assets/image/logo/haagen dazs-07.svg",
+        "logoB" : "assets/image/logo/blanco/haagendasz.png",
+        "wlogo": "w-120",
+        "nombre" : "HAAGEN DAZS",
+        "titulo" : "", 
+        "subtitulo" : "20%", 
+        "descripcion" : "dscto en el sabor del mes",
+        "legal": "Sujeto a existencias en tienda.",
+        "publish": true,
+        "category": "COMIDAS"
+    },
+    {
+        "logo" : "assets/image/logo/baby-infanti.png",
+        "logoB" : "assets/image/logo/blanco/baby_infanti_logo_blanco.png",
+        "wlogo": "w-120",
+        "nombre" : "BABY INFANTI",
+        "titulo" : "Hasta", 
+        "subtitulo" : "50%", 
+        "descripcion" : "dscto. en productos seleccionadas",
+        "legal": "Promoción valida del 1 al 30 de septiembre y/o hasta agotar stock Valida en producto seleccionados, no se cumula con otras promociones.",
+        "publish": true,
+        "category": "INFANTIL"
+    },
+    {
+        "logo" : "assets/image/logo/nike.png",
+        "logoB" : "assets/image/logo/blanco/nike_logo_blanco.png",
+        "wlogo": "w-120",
+        "nombre" : "Nike",
+        "titulo" : "2do producto ", 
+        "subtitulo" : "50%", 
+        "descripcion" : "off en las categorías de: Futbol & Training",
+        "legal": "Primer producto paga full Price,  igual o mayor valor Fecha inicio: 18 de Setiembre al 29 de Octubre ",
+        "publish": true,
+        "category": "DEPORTES"
+    },
+    {
+        "logo" : "assets/image/logo/under-armour.png",
+        "logoB" : "assets/image/logo/blanco/under-armour.png",
+        "wlogo": "w-120",
+        "nombre" : "UNDER ARMOUR",
+        "titulo" : "2do artículo con ", 
+        "subtitulo" : "50%", 
+        "descripcion" : "dscto.en mercadería seleccionada.",
+        "legal": "Descuento válido el 17 y 18 de septiembre, sujeto a disponibilidad, solo en productos seleccionados.",
+        "publish": true,
+        "category": "DEPORTES"
+>>>>>>> 998492154ed887e684c721b5be08b1385c69b007
     }
     
     

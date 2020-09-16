@@ -5,12 +5,14 @@ const app = new Vue ({
         color: false,
         productsDays: [],
         productsAll: [],
-        productsCategory: [], 
+        productsCategory: [],
+        productsCategory2: [], 
         productFilterCat: [],
         nameCategory: 'CALZADO'
     },
     created(){
         var _this = this;
+        this.JsonCategoryProduct2('CALZADO')
         $.getJSON("assets/data/days.json", function(data){
             // console.log(data)
             _this.productsDays = data.filter(product => {
@@ -230,7 +232,78 @@ const app = new Vue ({
         });
     },
     methods: {
-
+        JsonCategoryProduct2: function(category){
+            // console.log(category)
+            this.productsCategory2 = []; 
+            var _this = this;
+            var $carousel = $('.owl-categories2');
+            $carousel.owlCarousel('destroy');
+            console.log($carousel)
+            $.getJSON("assets/data/all.json", function(data){
+                console.log(data)
+                _this.productsCategory2 = data.filter(product => {
+                    if ((product.publish === true && product.category === category  )){
+                        return true
+                    }
+                });
+                // console.log("ok");
+            })
+            .always(function () {
+                
+                setTimeout(function(){ 
+                    // $('.owl-categories').trigger('refresh.owl.carousel');
+                    $('.owl-categories2').owlCarousel({
+                        // animateOut: 'fadeOut',
+                        loop:false,
+                        margin: 10,
+                        autoplay:false,
+                        autoplayTimeout: 5000,
+                        autoplayHoverPause:false,
+                        nav: true,
+                        responsive:{
+                            0:{
+                                items:1
+                            }
+                            
+                        }
+                    });
+    
+                    CSSPlugin.defaultTransformPerspective = 1000;
+                    //we set the backface 
+                    TweenMax.set($(".cardBack"), {rotationY:-180});
+    
+                    $.each($(".cardCont"), function(i,element) {
+                
+                        var frontCard = $(this).children(".cardFront"),
+                            backCard = $(this).children(".cardBack"),
+                            tl = new TimelineMax({paused:true});
+                        
+                            tl
+                                .to(frontCard, 1, {rotationY:180})
+                                .to(backCard, 1, {rotationY:0},0)
+                                .to(element, .5, {z:50},0)
+                                .to(element, .5, {z:0},.5);
+                        
+                        element.animation = tl;
+                    
+                    });
+    
+                    $(".cardCont").hover(elOver, elOut);
+    
+                    function elOver() {
+                        this.animation.play();
+                    }
+                    
+                    function elOut() {
+                        this.animation.reverse();
+                    }
+                
+                    // console.log(543);
+                }, 1500);
+    
+    
+            });
+        },
         JsonCategoryProduct: function(category){
             // console.log(category)
             this.productsCategory = []; 
@@ -344,6 +417,7 @@ const app = new Vue ({
             // $("#"+_name).removeClass("novisible");
             $(event.target).parent().addClass("active");
             this.JsonCategoryProduct(_category);
+            this.JsonCategoryProduct2(_category);
             this.nameCategory = _nameCategory;
         } 
     },
