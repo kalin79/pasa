@@ -1,0 +1,136 @@
+[
+    {
+        "logo" : "assets/image/logo/mossa.png",
+        "logoB" : "assets/image/logo/blanco/mossa.png",
+        "wlogo": "w-110",
+        "nombre" : "MOSSA SHOES",
+        "titulo" : "", 
+        "subtitulo" : "40%", 
+        "descripcion" : "de dscto, en Botines",
+        "legal": "Productos seleccionados, hasta agotar stock",
+        "publish": true,
+        "category": "CALZADO"
+    },
+    {
+        "logo" : "assets/image/logo/maui-sons.png",
+        "logoB" : "assets/image/logo/blanco/maui-sons.png",
+        "wlogo": "w-110",
+        "nombre" : "MAUI AND SONS",
+        "titulo" : "", 
+        "subtitulo" : "3X1", 
+        "descripcion" : "productos seleccionados",
+        "legal": "Productos seleccionados.Hasta agotar stock.Todo medio de pago",
+        "publish": true,
+        "category": "VESTUARIO"
+    },
+    {
+        "logo" : "assets/image/logo/new-athletic.png",
+        "logoB" : "assets/image/logo/blanco/new-athletic.png",
+        "wlogo": "w-100",
+        "nombre" : "NEW ATHLETIC",
+        "titulo" : "desde", 
+        "subtitulo" : "S./99", 
+        "descripcion" : "Zapatillas",
+        "legal": "Aplica en códigos seleccionados. No acumulable con otras promociones",
+        "publish": true,
+        "category": "DEPORTES"
+    },
+    {
+        "logo" : "assets/image/logo/riff-raff.png",
+        "logoB" : "assets/image/logo/blanco/riff-raff.png",
+        "wlogo": "w-100",
+        "nombre" : "RIFF&RAFF",
+        "titulo" : "", 
+        "subtitulo" : "50%", 
+        "descripcion" : "de dscto. en prendas de invierno 2020",
+        "legal": "Promoción valida para productos seleccionados",
+        "publish": true,
+        "category": "VESTUARIO"
+    },
+    {
+        "logo" : "assets/image/logo/incapalca.png",
+        "logoB" : "assets/image/logo/blanco/incapalca.png",
+        "wlogo": "w-100",
+        "nombre" : "Incalpaca",
+        "titulo" : "", 
+        "subtitulo" : "50%", 
+        "descripcion" : "de dscto. en prendas de invierno 2020",
+        "legal": "50% de dscto más 20% de dscto adicional en todos los productos con cualquier método de pago. válida del 14/08 al 30/09 del 2020 en tiendas físicas disponibles.aplica dscto a precio de etiqueta. El 20% de dscto adicional no es válido para los siguientes artículos: frazadas, mantas, vinchas, llaveros, collares, pantuflas ni mascarillas. Stock mínimo: 1 unidad por modelo. No acumulable con otras promociones y/o dsctos.",
+        "publish": true,
+        "category": "VESTUARIO"
+    },
+    {
+        "logo" : "assets/image/logo/nacion1821.png",
+        "logoB" : "assets/image/logo/blanco/nacion1821.png",
+        "wlogo": "w-70",
+        "nombre" : "Nación 1821",
+        "titulo" : "", 
+        "subtitulo" : "para 2 personas.", 
+        "descripcion" : "Un súper combo Nación.",
+        "legal": "No acumulable con otras promociones.Válido para consumo en salón y para llevar.Promoción válida del 21.08 al 30.09",
+        "publish": true,
+        "category": "COMIDAS"
+    },
+    {
+        "logo" : "assets/image/logo/american-brands.svg",
+        "logoB" : "assets/image/logo/blanco/american-brands.svg",
+        "wlogo": "w-70",
+        "nombre" : "American brands",
+        "titulo" : "", 
+        "subtitulo" : "50%", 
+        "descripcion" : "de dscto.  en prendas seleccionadas",
+        "legal": "Promoción valida hasta agostar stock. Promoción en prendas seleccionadas. 20% adicional con cualquier medio de Pago.",
+        "publish": true,
+        "category": "VESTUARIO"
+    },
+    {
+        "logo" : "assets/image/logo/squeeze.png",
+        "logoB" : "assets/image/logo/blanco/squeeze.png",
+        "wlogo": "w-70",
+        "nombre" : "Squeeze",
+        "titulo" : "", 
+        "subtitulo" : "40%", 
+        "descripcion" : "de dscto. en todo pantalones jeans",
+        "legal": "Promoción válida hasta el 30 de setiembre y/o hasta agotar stock. Stock mínimo 2 unidades. El descuento se aplica sobre el precio de etiqueta, no acumulable con otras ofertas y/o promociones vigentes en tiendas.",
+        "publish": true,
+        "category": "VESTUARIO"
+    },
+    {
+        "logo" : "assets/image/logo/PRUNE-19.svg",
+        "logoB" : "assets/image/logo/blanco/PRUNE-19.svg",
+        "wlogo": "w-70",
+        "nombre" : "PRÜNE",
+        "titulo" : "Extra", 
+        "subtitulo" : "50%", 
+        "descripcion" : "de dscto. sobre precios Outlet en CALZADOS",
+        "legal": "Promoción exclusiva para Prüne Outlet Faucett.No aplica web ni otros locales.Aplica cualquier medio de pago.En caso de comprar dos calzados aplica el descuento al de menor valor.No es acumulable con otras promociones.",
+        "publish": true,
+        "category": "CALZADO"
+    },
+    {
+        "logo" : "assets/image/logo/billabong.png",
+        "logoB" : "assets/image/logo/blanco/billabong.png",
+        "wlogo": "w-70",
+        "nombre" : "Billabong",
+        "titulo" : "a solo", 
+        "subtitulo" : "S./99", 
+        "descripcion" : "2 polos",
+        "legal": "Promoción válida hasta el 30 de septiembre del 2020 y/o hasta agotar stock. Promoción no acumulable con otras promociones. Stock mínimo 5 unidades.",
+        "publish": true,
+        "category": "VESTUARIO"
+    },
+    {
+        "logo" : "assets/image/logo/youroutlet.png",
+        "logoB" : "assets/image/logo/blanco/youroutlet.png",
+        "wlogo": "w-80",
+        "nombre" : "Diverxia",
+        "titulo" : "a", 
+        "subtitulo" : "S./89", 
+        "descripcion" : "Todo relojes Folio",
+        "legal": "Oferta válida hasta el 30/09/2020. hasta agotar stock",
+        "publish": true,
+        "category": "RELOJERIA"
+    }
+    
+    
+]
