@@ -11,11 +11,11 @@
         "publish": true,
         "category": "CALZADO",
         "semana": "1",
-        "plantilla": "",
+        "plantilla": "1",
         "disclaimer1": "",
-        "disclaimer2": "",
+        "disclaimer2": "EN ROPA Y ACCESORIOS",
         "disclaimer3": "",
-        "porcentaje": "",
+        "porcentaje": "50%",
         "texto": ""
     },
     {
@@ -28,7 +28,14 @@
         "descripcion" : "dscto. a la promoción en tienda.",
         "legal": "Promociones no acumulables. No incluye avance de temporada. No incluye accesorios",
         "publish": true,
-        "category": "CALZADO"
+        "category": "CALZADO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "A LA PROMOCIÓN EN TIENDA",
+        "disclaimer3": "",
+        "porcentaje": "10%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/strata_logo_blanco.png",
@@ -40,11 +47,18 @@
         "descripcion" : "dscto.  todo Crep, Vans",
         "legal": "Hasta agotar stock, no acumulable con otras promociones.Hasta el 29 de setiembre",
         "publish": true,
-        "category": "CALZADO"
+        "category": "CALZADO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "TODO CREP,VANS",
+        "disclaimer3": "",
+        "porcentaje": "30%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/melissa.png",
-        "logoB" : "assets/image/logo/blanco/melissa.png",
+        "logoB" : "assets/image/logo/blanco/Melissa.png",
         "wlogo": "w-100",
         "nombre" : "Melissa",
         "titulo" : "", 
@@ -52,11 +66,18 @@
         "descripcion" : "dscto. segundo producto",
         "legal": "No aplica avance de nueva colección. El descuento se aplica al producto de menor valor. No acumulable con otras promociones y/o descuentos vigentes. No se aceptan cambios ni devoluciones.",
         "publish": true,
-        "category": "CALZADO"
+        "category": "CALZADO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "SEGUNDO PRODUCTO",
+        "disclaimer3": "",
+        "porcentaje": "40%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/steve-madden.png",
-        "logoB" : "assets/image/logo/blanco/steve-madden.png",
+        "logoB" : "assets/image/logo/blanco/SteveMadden.png",
         "wlogo": "w-90",
         "nombre" : "Steve Madden",
         "titulo" : "Hasta", 
@@ -64,11 +85,18 @@
         "descripcion" : "dscto. en productos seleccionado",
         "legal": "Promoción válida sobre precio blanco. Válida en productos seleccionados. No aplica descuento sobre descuento.",
         "publish": true,
-        "category": "CALZADO"
+        "category": "CALZADO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "40%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/hush-puppies.png",
-        "logoB" : "assets/image/logo/blanco/hush-puppies.png",
+        "logoB" : "assets/image/logo/blanco/HushPuppies.png",
         "wlogo": "w-100",
         "nombre" : "Hush Puppies",
         "titulo" : "Hasta", 
@@ -76,11 +104,18 @@
         "descripcion" : "dscto. en productos seleccionado",
         "legal": "Promoción válida hasta el 30 de setiembre del 2020 y/o hasta agotar stock. Stock mínimo 5 unidades. Promoción no acumulable con otras promociones.",
         "publish": true,
-        "category": "CALZADO"
+        "category": "CALZADO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/florsheim.png",
-        "logoB" : "assets/image/logo/blanco/florsheim.png",
+        "logoB" : "assets/image/logo/blanco/Florsheim.png",
         "wlogo": "w-70",
         "nombre" : "Florsheim",
         "titulo" : "", 
@@ -88,7 +123,14 @@
         "descripcion" : "dscto. a la promoción en tienda.",
         "legal": "Descuentos sobre precios de etiqueta. No incluye accesorios.",
         "publish": true,
-        "category": "CALZADO"
+        "category": "CALZADO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "A LA PROMOCIÓN EN TIENDA",
+        "disclaimer3": "",
+        "porcentaje": "10%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/sophie-crown.png",
@@ -100,11 +142,18 @@
         "descripcion" : "dscto. en productos seleccionados.",
         "legal": "No acumulable con otras promociones y/o descuentos. Válido hasta agotar stock. Válido solo Sophie Crown Larcomar. ",
         "publish": true,
-        "category": "ACCESORIOS"
+        "category": "ACCESORIOS",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/sophie-crown.png",
-        "logoB" : "assets/image/logo/blanco/sophie_crown_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/qala_logo_blanco.png",
         "wlogo": "w-70",
         "nombre" : "QALA",
         "titulo" : "Hasta", 
@@ -112,7 +161,14 @@
         "descripcion" : "en llaveros y pulseras ",
         "legal": "Productos seleccionados y hasta agotar stock",
         "publish": true,
-        "category": "ACCESORIOS"
+        "category": "ACCESORIOS",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN LLAVEROS Y PULSERAS",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/montalvo.png",
@@ -124,7 +180,14 @@
         "descripcion" : "en llaveros y pulseras ",
         "legal": "Promoción válida para Montalvo Larcomar. el descuento en color no incluye tinte sin amoníaco. La manicure válido solo para clásicas vigencia. Promoción botox y color a 199.90 si el cliente cuenta con el cabello largo. válida para todo agosto y septiembre de lunes a jueves. Promoción del 30% solo aplica domingos y lunes. No acumúlele con otras promociones. Válido con cualquier medio de pago. Preguntar por las demás restricciones y condiciones en la recepción del salón",
         "publish": true,
-        "category": "BELLEZA"
+        "category": "BELLEZA",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": " MECHAS, BALAYAGE, COLOR Y MÁS",
+        "disclaimer3": "",
+        "porcentaje": "30%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/jardin-zen.png",
@@ -136,7 +199,14 @@
         "descripcion" : "de dscto en todo cremas ",
         "legal": "Solo aplica a las cremas de 200 gramos compra maxima x persona 2 unidades No aplica con otras promociones y descuentos Promocion valida del 1 de setiembre al 30 setiembre",
         "publish": true,
-        "category": "BELLEZA"
+        "category": "BELLEZA",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN TODO CREMAS",
+        "disclaimer3": "",
+        "porcentaje": "40%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/DESIGUAL.svg",
@@ -160,7 +230,14 @@
         "descripcion" : "dscto. en toda la tienda",
         "legal": "Hasta 50% de descuento en toda la tienda. Promoción válida del 18/09/2020 hasta el 11/10/2020. No acumulable con otras promociones.",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN TODA LA TIENDA",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/KUNA-16.svg",
@@ -172,7 +249,15 @@
         "descripcion" : "en productos seleccionados.",
         "legal": "No incluye KUNA Luxury",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "precio": "",
+        "precio-decimal": ""
     },
     {
         "logo" : "assets/image/logo/exit.png",
@@ -184,7 +269,14 @@
         "descripcion" : "descuento en productos de temporada I20",
         "legal": "Condiciones y términos legales: Válido en las tiendas de EXIT de Larcomar, del 1 al 30 de septiembre del 2020. No acumulables con otras promociones. Válido para productos seleccionados de temporada OI 2020.",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS DE TEMPORADA I20",
+        "disclaimer3": "",
+        "porcentaje": "70%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/salomon.png",
@@ -196,7 +288,14 @@
         "descripcion" : "dscto. en prendas seleccionadas",
         "legal": "- Válido en tienda Salomon de Larcomar. - No es acumulable con otras promociones y/o descuentos. - Promoción válida del 18 al 30 de septiembre 2020. - Válido hasta agotar stock.",
         "publish": true,
-        "category": "DEPORTES"
+        "category": "DEPORTES",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRENDAS SELECCIONADAS",
+        "disclaimer3": "",
+        "porcentaje": "40%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/salomon.png",
@@ -208,7 +307,14 @@
         "descripcion" : "dscto. en todas las zapatillas Speedcross4",
         "legal": "- Válido en tienda Salomon de Larcomar. - No es acumulable con otras promociones y/o descuentos. - Promoción válida del 18 al 30 de septiembre 2020. -  Válido hasta agotar stock.",
         "publish": true,
-        "category": "DEPORTES"
+        "category": "DEPORTES",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN LAS ZAPATILLAS SPEEDCROSS4",
+        "disclaimer3": "",
+        "porcentaje": "30%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/RIPCURL-20.svg",
@@ -220,7 +326,14 @@
         "descripcion" : "dscto en productos seleccionados",
         "legal": "En productos seleccionados",
         "publish": true,
-        "category": "DEPORTES"
+        "category": "DEPORTES",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "60%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/PRUNE-19.svg",
@@ -232,11 +345,18 @@
         "descripcion" : "off adicional en productos 'Sale'",
         "legal": "- Válido en tienda Salomon de Larcomar. - No es acumulable con otras promociones y/o descuentos. - Promoción válida del 18 al 30 de septiembre 2020. - Válido hasta agotar stock.",
         "publish": true,
-        "category": "MALETERIA"
+        "category": "MALETERIA",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "OFF EN PRODCUTOS SALES",
+        "disclaimer3": "",
+        "porcentaje": "20%",
+        "texto": ""
     },
     {
-        "logo" : "assets/image/logo/PRUNE-19.svg",
-        "logoB" : "assets/image/logo/blanco/PRUNE-19.svg",
+        "logo" : "assets/image/logo/ILARIA-17.svg",
+        "logoB" : "assets/image/logo/blanco/IlariaPeru.png",
         "wlogo": "w-80",
         "nombre" : "ILARIA Perú",
         "titulo" : "Por compras", 
@@ -244,7 +364,14 @@
         "descripcion" : "gratis la pulsera francesa.",
         "legal": "válido del 14/09 al 21/09, no acumulable con otras promociones ni descuento VIP",
         "publish": true,
-        "category": "RELOJERIA"
+        "category": "RELOJERIA",
+        "semana": "1",
+        "plantilla": "2",
+        "disclaimer1": "PODRAN LLEVARSE",
+        "disclaimer2": "POR COMPRAS DE S/300",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": "GRATIS PULSERA FRANCESA"
     },
     {
         "logo" : "assets/image/logo/sol-alpaca-10.svg",
@@ -256,7 +383,14 @@
         "descripcion" : "dscto. en productos seleccionados",
         "legal": "Productos seleccionados, hasta agotar stock, menos en productos de vicuña ",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": "GRATIS PULSERA FRANCESA"
     },
     {
         "logo" : "assets/image/logo/puma.png",
@@ -268,7 +402,14 @@
         "descripcion" : "dscto. en productos seleccionados.",
         "legal": "Promoción válida hasta agotar stock promocional. No es acumulable con otras promociones y/o descuentos.",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/TANTA-37.svg",
@@ -280,7 +421,15 @@
         "descripcion" : "Todos los días 3 deliciosos Brunch. Incluye dos cócteles de cortesía",
         "legal": "Horarios de 10:00 am a 12:30 pm Cupos limitados, de lunes a sábadopromoción no acumulable, no válida para otras promociones, descuento válido para productos para llevar.",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "POR",
+        "disclaimer2": "DIARIO TRES BRUNCHS",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "precio": "39",
+        "precio-decimal": ".00"
     },
     {
         "logo" : "assets/image/logo/hoseg.png",
@@ -292,7 +441,15 @@
         "descripcion" : "dscto.  en productos seleccionados.",
         "legal": "Productos Seleccionados - 15% Casacas Adulto (Plumas, Hibridas, Blend) 15% Hoodies MELANGE one 2.0, dotsy look good 10% Hoodies CHARCOAL dots y look good 20% Accesorio (Gorras, Beanies y Medias) 30% Polos y casacas Kids",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "30%",
+        "precio": "",
+        "precio-decimal": ""
     },
     {
         "logo" : "assets/image/logo/mangos-02.svg",
@@ -304,11 +461,18 @@
         "descripcion" : "dscto. en determinados platos de la carta",
         "legal": "Válido de lunes a jueves de 12m a 4pm (no incluye buffets – no incluye bebidas).Se le dará a conocer al cliente de manera directa (en el restaurante) la variedad de platos que aplican para esta promoción. La lista de platos que aplicarían a la promoción puede ajustarse en la medida que sea conveniente.",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "DETERMINADOS PLATOS DE CARTA",
+        "disclaimer3": "",
+        "porcentaje": "40%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/coolbox-11.svg",
-        "logoB" : "assets/image/logo/blanco/coolbox-11.svg",
+        "logoB" : "assets/image/logo/blanco/Coolbox.png",
         "wlogo": "w-90",
         "nombre" : "Coolbox",
         "titulo" : "", 
@@ -316,11 +480,19 @@
         "descripcion" : "en productos seleccionados.",
         "legal": "Oferta válida del 1 al 30 de setiembre de 2020 y/o hasta agotar stock de 10 unidades. Códigos seleccionados, consultar en tienda. Los códigos pueden variar por tienda. Se paga al 100% el producto de mayor valor. El dscto. Se aplica en el producto de menor valor. Fotos referenciales. El descuento de baterías externas solo aplica para baterías menores a 10,000 mAh. No participa la batería externa Hummer.",
         "publish": true,
-        "category": "TECNOLOGIA"
+        "category": "TECNOLOGIA",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "precio": "",
+        "precio-decimal": ""
     },
     {
         "logo" : "assets/image/logo/coolbox-11.svg",
-        "logoB" : "assets/image/logo/blanco/coolbox-11.svg",
+        "logoB" : "assets/image/logo/blanco/Coolbox.png",
         "wlogo": "w-90",
         "nombre" : "Coolbox",
         "titulo" : "", 
@@ -328,7 +500,15 @@
         "descripcion" : "en productos seleccionados.",
         "legal": "Oferta válida del 1 al 30 de setiembre de 2020 y/o hasta agotar stock de 10 unidades. Códigos seleccionados, consultar en tienda. Los códigos pueden variar por tienda. Se paga al 100% el producto de mayor valor. El dscto. Se aplica en el producto de menor valor. Fotos referenciales. El descuento de baterías externas solo aplica para baterías menores a 10,000 mAh. No participa la batería externa Hummer.",
         "publish": true,
-        "category": "TECNOLOGIA"
+        "category": "TECNOLOGIA",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "precio": "",
+        "precio-decimal": ""
     },
     {
         "logo" : "assets/image/logo/la-bonbonniere.png",
@@ -340,11 +520,18 @@
         "descripcion" : "dscto. en sopas y cremas",
         "legal": "No valido con otras promociones. Valido de lunes a Jueves en pedidos para consumir en salon. Valido para los locales de san isidro y larco mar. No valido feriados y festivos",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "SOPAS Y CREMAS",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/JUAN-VALDEZ-26.svg",
-        "logoB" : "assets/image/logo/blanco/JUAN-VALDEZ-26.svg",
+        "logoB" : "assets/image/logo/blanco/JuanValdez.png",
         "wlogo": "w-60",
         "nombre" : "JUAN VALDEZ CAFÉ",
         "titulo" : "", 
@@ -352,7 +539,14 @@
         "descripcion" : "dscto. en la 2da unidad de Café Empacado o Café Soluble",
         "legal": "Promoción válida del 21/08 al 30/09 del 2020. Exclusiva para compra presencial en tienda Juan Valdez Larcomar. Por la compra de un Café en grano empacado o un Café soluble liofilizado, puedes llevar la segunda unidad a un 30% de descuento. En cafés empacados aplica para: Cumbre 500 g, Volcán 500 g, Sierra Nevada 500 g, Antioquia 500 g, Huila 500 g, Finca 500 g, Orgánico 500 g. En Cafés solubles liofilizados aplica para: Clásico 95g, Chocolate 95 g, Descafeinado g. Promoción sujeta a disponibilidad de insumos en la tienda. No acumulable con otras promociones o descuentos. No válido para delivery. Imágenes referenciales.",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN EL 2° CAFÉ EMPACADO/SOLUBLE",
+        "disclaimer3": "",
+        "porcentaje": "30%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/GMO-05.svg",
@@ -364,7 +558,15 @@
         "descripcion" : "dscto. en lunas por compras de montura ",
         "legal": "Promoción válida desde 21 de agosto al 30 de setiembre del 2020 y/o hasta agotar stock de 80,000 unidades en total a nivel nacional. Por la compra de montura obtén un 30% de descuento en las lunas, excluye lunas Ray-Ban Lenses. La compra debe realizarse el mismo día y registrarse en un mismo comprobante. Promoción aplicable sobre precio de lista y no acumulable con otros descuentos, promociones, convenios o ventas especiales. Para mayor información comunicarse al 0800-1-4600 de lunes a viernes de 8.30 am a 6.00 pm.",
         "publish": true,
-        "category": "OPTICAS"
+        "category": "OPTICAS",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN LUNAS POR COMPRAR MONTURAS",
+        "disclaimer3": "",
+        "porcentaje": "30%",
+        "precio": "",
+        "precio-decimal": ""
     },
     {
         "logo" : "assets/image/logo/maestro-tzu.svg",
@@ -376,7 +578,14 @@
         "descripcion" : "dscto. platos a la carta",
         "legal": "Descuento en consumo a la carta. No acumulable para otras promociones",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "PLATOS A LA CARTA",
+        "disclaimer3": "",
+        "porcentaje": "10%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/lippi.png",
@@ -388,7 +597,14 @@
         "descripcion" : "dscto. en toda la marca.",
         "legal": "Hasta agotar stock, no acumulable con otras promociones.",
         "publish": true,
-        "category": "DEPORTES"
+        "category": "DEPORTES",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/pure-alpaca-03.svg",
@@ -400,7 +616,14 @@
         "descripcion" : "dscto. en toda la marca.",
         "legal": "",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN TODA LA MARCA",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/SUNGLASS-HUT.svg",
@@ -408,11 +631,18 @@
         "wlogo": "w-65",
         "nombre" : "Sunglass Hut",
         "titulo" : "", 
-        "subtitulo" : "40%", 
+        "subtitulo" : "30%", 
         "descripcion" : "en el segundo par de lentes de sol",
         "legal": "Vigencia; Hasta el 30/09/2020. Descuento aplicable sobre el precio original al producto de menor precio y en una sola transacción. No acumulable con otras promociones y no es válido para accesorios.",
         "publish": true,
-        "category": "OPTICAS"
+        "category": "OPTICAS",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "SEGUNDO PAR DE LENTES DE SOL",
+        "disclaimer3": "",
+        "porcentaje": "30%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/mbo.png",
@@ -424,7 +654,14 @@
         "descripcion" : "dscto adicional en colección OI'20",
         "legal": "Solo aplica para la colección de OI20. Hasta agotar stock. No aplica para accesorios, interiores, mascarillas, casacas de cuero, ternos y polos básicos. Promoción no acumulable con otras alianzas.",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN COLECCIÓN OI'20",
+        "disclaimer3": "",
+        "porcentaje": "10%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/sra-buendia.png",
@@ -436,7 +673,14 @@
         "descripcion" : "dscto. en cajas de 15 unidades de tejas y chocotejas surtidas",
         "legal": "Promoción valida del 4/09/2020 al 4/10/2020, valido solo en el modulo de Larcomar, no acumulable con otras promociones, máximo de 03 cajas por persona.",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN CAJAS DE TEJAS Y CHOCOTEJAS SURTIDAS",
+        "disclaimer3": "",
+        "porcentaje": "20%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/columbia.png",
@@ -448,7 +692,14 @@
         "descripcion" : "dscto. en productos seleccionado",
         "legal": "Promoción válida hasta el 30 de setiembre del 2020 y/o hasta agotar stock. Stock mínimo 5 unidades. Promoción no acumulable con otras promociones.",
         "publish": true,
-        "category": "DEPORTES"
+        "category": "DEPORTES",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "40%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/patagonia.png",
@@ -460,7 +711,14 @@
         "descripcion" : "dscto.en productos seleccionados",
         "legal": "Promoción válida hasta el 30 de setiembre del 2020 y/o hasta agotar stock. Stock mínimo 5 unidades. Promoción no acumulable con otras promociones.",
         "publish": true,
-        "category": "DEPORTES"
+        "category": "DEPORTES",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/RKF.png",
@@ -472,7 +730,14 @@
         "descripcion" : "dscto.en productos seleccionados",
         "legal": "Promoción válida hasta el 30 de setiembre del 2020 y/o hasta agotar stock. Stock mínimo 5 unidades. Promoción no acumulable con otras promociones.",
         "publish": true,
-        "category": "DEPORTES"
+        "category": "DEPORTES",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/CREPIER-27.svg",
@@ -484,7 +749,14 @@
         "descripcion" : "dscto.en productos seleccionados",
         "legal": "Descuento 'hasta' aplica en producto seleccionados. No acumulable con otras promociones y/o descuentos. Stock sujeto a disponibilidad de tienda.",
         "publish": true,
-        "category": "MALETERIA"
+        "category": "MALETERIA",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/ibero-librerias.svg",
@@ -496,7 +768,14 @@
         "descripcion" : "dscto. en cómics y mangas de Batman",
         "legal": "No acumulable con otras promociones. Válido el 19 de setiembre en el C.C. Larcomar.",
         "publish": true,
-        "category": "DECORACION"
+        "category": "DECORACION",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN COMICS Y MANGAS DE BATMAN",
+        "disclaimer3": "",
+        "porcentaje": "25%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/guess-02.svg",
@@ -508,7 +787,14 @@
         "descripcion" : "off en toda la tienda",
         "legal": "Válido en productos seleccionados. No acumulable con otras promociones.",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "OFF EN TODA LA TIENDA",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/lucio-cafe.png",
@@ -520,7 +806,14 @@
         "descripcion" : "",
         "legal": "Promoción válida por tiempo limitado y/o hasta agotar stock de 20 und. No válida con otras promociones y/o descuentos. No se pueden cambiar o reemplazar los productos de la promoción. Fotos referenciales. Puede variar sin previo aviso.",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "DESAYUNOS LUCIO",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/lucio-cafe.png",
@@ -532,7 +825,16 @@
         "descripcion" : "",
         "legal": "Promoción válida por tiempo limitado y/o hasta agotar stock de 100 und. No válida con otras promociones y/o descuentos. No se pueden cambiar o reemplazar los productos de la promoción. Fotos referenciales. Puede variar sin previo aviso.",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "",
+        "disclaimer2": "ALMUEROS A TU MEDIDA",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": "",
+        "precio": "S/.16",
+        "precio-decimal": ".90"
     },
     {
         "logo" : "assets/image/logo/haagen dazs-07.svg",
@@ -544,7 +846,14 @@
         "descripcion" : "dscto en el sabor del mes",
         "legal": "Sujeto a existencias en tienda.",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "SABOR DEL MES",
+        "disclaimer3": "",
+        "porcentaje": "20%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/baby-infanti.png",
@@ -556,7 +865,14 @@
         "descripcion" : "dscto. en productos seleccionadas",
         "legal": "Promoción valida del 1 al 30 de septiembre y/o hasta agotar stock Valida en producto seleccionados, no se cumula con otras promociones.",
         "publish": true,
-        "category": "INFANTIL"
+        "category": "INFANTIL",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/nike.png",
@@ -568,7 +884,14 @@
         "descripcion" : "off en las categorías de: Futbol & Training",
         "legal": "Primer producto paga full Price,  igual o mayor valor Fecha inicio: 18 de Setiembre al 29 de Octubre ",
         "publish": true,
-        "category": "DEPORTES"
+        "category": "DEPORTES",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "OFF EN FUTBOL &TRAINING",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/under-armour.png",
@@ -580,7 +903,14 @@
         "descripcion" : "dscto.en mercadería seleccionada.",
         "legal": "Descuento válido el 17 y 18 de septiembre, sujeto a disponibilidad, solo en productos seleccionados.",
         "publish": true,
-        "category": "DEPORTES"
+        "category": "DEPORTES",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN MERCADERÍA SELECCIONADA",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": ""
     }
     
     
