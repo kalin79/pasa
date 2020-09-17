@@ -9,7 +9,14 @@
         "descripcion" : "de dscto, en Botines",
         "legal": "Productos seleccionados, hasta agotar stock",
         "publish": true,
-        "category": "CALZADO"
+        "category": "CALZADO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN BOTINES",
+        "disclaimer3": "",
+        "porcentaje": "40%",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/maui-sons.png",
@@ -21,7 +28,14 @@
         "descripcion" : "productos seleccionados",
         "legal": "Productos seleccionados.Hasta agotar stock.Todo medio de pago",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": ""
     },
     {
         "logo" : "assets/image/logo/new-athletic.png",
@@ -33,7 +47,16 @@
         "descripcion" : "Zapatillas",
         "legal": "Aplica en códigos seleccionados. No acumulable con otras promociones",
         "publish": true,
-        "category": "DEPORTES"
+        "category": "DEPORTES",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "DESDE",
+        "disclaimer2": "EN ZAPATILLAS",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": "",
+        "precio": "99",
+        "precio-decimal": ".00"
     },
     {
         "logo" : "assets/image/logo/riff-raff.png",
@@ -45,7 +68,16 @@
         "descripcion" : "de dscto. en prendas de invierno 2020",
         "legal": "Promoción valida para productos seleccionados",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRENDAS DE INVIERNO 20",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": "",
+        "precio": "",
+        "precio-decimal": ""
     },
     {
         "logo" : "assets/image/logo/incapalca.png",
@@ -57,7 +89,16 @@
         "descripcion" : "de dscto. en prendas de invierno 2020",
         "legal": "50% de dscto más 20% de dscto adicional en todos los productos con cualquier método de pago. válida del 14/08 al 30/09 del 2020 en tiendas físicas disponibles.aplica dscto a precio de etiqueta. El 20% de dscto adicional no es válido para los siguientes artículos: frazadas, mantas, vinchas, llaveros, collares, pantuflas ni mascarillas. Stock mínimo: 1 unidad por modelo. No acumulable con otras promociones y/o dsctos.",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": "",
+        "precio": "",
+        "precio-decimal": ""
     },
     {
         "logo" : "assets/image/logo/nacion1821.png",
@@ -69,7 +110,16 @@
         "descripcion" : "Un súper combo Nación.",
         "legal": "No acumulable con otras promociones.Válido para consumo en salón y para llevar.Promoción válida del 21.08 al 30.09",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "2",
+        "disclaimer1": "LLÉVATE",
+        "disclaimer2": "PARA 2 PERSONAS",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": "UN SUPER COMBO",
+        "precio": "",
+        "precio-decimal": ""
     },
     {
         "logo" : "assets/image/logo/american-brands.svg",
@@ -81,7 +131,16 @@
         "descripcion" : "de dscto.  en prendas seleccionadas",
         "legal": "Promoción valida hasta agostar stock. Promoción en prendas seleccionadas. 20% adicional con cualquier medio de Pago.",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRENDAS SELECCIONADAS",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": "",
+        "precio": "",
+        "precio-decimal": ""
     },
     {
         "logo" : "assets/image/logo/squeeze.png",
@@ -93,7 +152,16 @@
         "descripcion" : "de dscto. en todo pantalones jeans",
         "legal": "Promoción válida hasta el 30 de setiembre y/o hasta agotar stock. Stock mínimo 2 unidades. El descuento se aplica sobre el precio de etiqueta, no acumulable con otras ofertas y/o promociones vigentes en tiendas.",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN TODO PANTALONES JEANS",
+        "disclaimer3": "",
+        "porcentaje": "40%",
+        "texto": "",
+        "precio": "",
+        "precio-decimal": ""
     },
     {
         "logo" : "assets/image/logo/PRUNE-19.svg",
@@ -105,7 +173,16 @@
         "descripcion" : "de dscto. sobre precios Outlet en CALZADOS",
         "legal": "Promoción exclusiva para Prüne Outlet Faucett.No aplica web ni otros locales.Aplica cualquier medio de pago.En caso de comprar dos calzados aplica el descuento al de menor valor.No es acumulable con otras promociones.",
         "publish": true,
-        "category": "CALZADO"
+        "category": "CALZADO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN CALZADO - PRECIOS OUTLET",
+        "disclaimer3": "",
+        "porcentaje": "50%",
+        "texto": "",
+        "precio": "",
+        "precio-decimal": ""
     },
     {
         "logo" : "assets/image/logo/billabong.png",
@@ -117,7 +194,16 @@
         "descripcion" : "2 polos",
         "legal": "Promoción válida hasta el 30 de septiembre del 2020 y/o hasta agotar stock. Promoción no acumulable con otras promociones. Stock mínimo 5 unidades.",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "A SOLO",
+        "disclaimer2": "2 POLOS",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": "",
+        "precio": "99",
+        "precio-decimal": ".00"
     },
     {
         "logo" : "assets/image/logo/youroutlet.png",
@@ -129,7 +215,16 @@
         "descripcion" : "Todo relojes Folio",
         "legal": "Oferta válida hasta el 30/09/2020. hasta agotar stock",
         "publish": true,
-        "category": "RELOJERIA"
+        "category": "RELOJERIA",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "",
+        "disclaimer2": "TODO RELOJES FOLIO",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": "",
+        "precio": "99",
+        "precio-decimal": ".00"
     }
     
     
