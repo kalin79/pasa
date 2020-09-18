@@ -9,7 +9,16 @@
         "descripcion" : "POR LA COMPRA DE CUALQUIER BEBIDA",
         "legal": "APLICA SOLO EN TIENDA QUINDE DE LUNES A JUEVES, NO APLICA SOBRE OTRAS PROMOCIONES NI SUSCRIPCIONES, SE OTORGARÁ UN ESPRESSO SIMPLE, VÁLIDO HASTA EL 15 DE SETIEMBRE DE 2020",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "2",
+        "disclaimer1": "GRATIS",
+        "disclaimer2": "POR COMPRA DE CUALQUIER BEBIDA",
+        "disclaimer3": "LUNES A JUEVES",
+        "porcentaje": "",
+        "texto": " UN ESPRESSO",
+        "precio": "",
+        "preciodecimal": ""
     },
     {
         "logo" : "assets/image/logo/tasty.png",
@@ -21,7 +30,16 @@
         "descripcion" : "Oferta 1 pollo entero+ ensalada+ papas fritas y cremas",
         "legal": "Promoción válida para recojo en tienda, precio no incluye servicio delivery, está promoción no es acumulable con otras ofertas y/o combos promocionales. Vigencia de la promoción del 10.08.20 al 15.09.20 y/o hasta agotar stock 1000 unidades.",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "OFERTA",
+        "disclaimer2": "1 POLLO, PAPAS Y  ENSALADA",
+        "disclaimer3": ""   ,
+        "porcentaje": "",
+        "texto": "",
+        "precio": "40",
+        "preciodecimal": ".00"
     },
     {
         "logo" : "assets/image/logo/porta.svg",
@@ -33,7 +51,16 @@
         "descripcion" : "EN PRODUCTOS SELECCIONADOS",
         "legal": "Vigencia: HOY. No acumulable con otras promociones. Compra máxima: 5 unidades por persona",
         "publish": true,
-        "category": "MALETERIA"
+        "category": "MALETERIA",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": ""   ,
+        "porcentaje": "60%",
+        "texto": "",
+        "precio": "",
+        "preciodecimal": ""
     },
     {
         "logo" : "assets/image/logo/viale.svg",
@@ -45,7 +72,16 @@
         "descripcion" : "en Botas&Botines.",
         "legal": "30% de descuento en Botas&Botines Viale y Adv. Vigencia del 04 de Setiembre al 24 de setiembre y/o agotar el stock. Descuento aplica sobre precio de lista. No acumulable para otras promociones.",
         "publish": true,
-        "category": "CALZADO"
+        "category": "CALZADO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN BOTAS & BOTINES",
+        "disclaimer3": ""   ,
+        "porcentaje": "30%",
+        "texto": "",
+        "precio": "",
+        "preciodecimal": "" 
     },
     {
         "logo" : "assets/image/logo/choripan.png",
@@ -57,7 +93,16 @@
         "descripcion" : "2 chorihuevo",
         "legal": "Promoción válida en el CC. El Quinde, durante la campaña 1000 horas de locuras",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "",
+        "disclaimer2": "2 CHORIHUEVOS",
+        "disclaimer3": ""   ,
+        "porcentaje": "",
+        "texto": "",
+        "precio": "9",
+        "preciodecimal": ".00" 
     },
     {
         "logo" : "assets/image/logo/bata.png",
@@ -69,7 +114,16 @@
         "descripcion" : "",
         "legal": "Aplica restricciones",
         "publish": true,
-        "category": "CALZADO"
+        "category": "CALZADO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN BOTAS",
+        "disclaimer3": ""   ,
+        "porcentaje": "",
+        "texto": "",
+        "precio": "",
+        "preciodecimal": "" 
     },
     {
         "logo" : "assets/image/logo/quicksilver.svg",
@@ -81,7 +135,16 @@
         "descripcion" : "en shoes roxy",
         "legal": "HASTA AGOTAR STOCK",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN SHOES ROXY",
+        "disclaimer3": ""   ,
+        "porcentaje": "70%",
+        "texto": "",
+        "precio": "",
+        "preciodecimal": "" 
     },
     {
         "logo" : "assets/image/logo/quicksilver.svg",
@@ -93,7 +156,16 @@
         "descripcion" : "en las mejores marcas DC SHOES, QUIKSILVER, ROXY Y FOX",
         "legal": "HASTA AGOTAR STOCK",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN DC, QUICKSILVER, ROXY Y FOX",
+        "disclaimer3": ""   ,
+        "porcentaje": "2X1",
+        "texto": "",
+        "precio": "",
+        "preciodecimal": "" 
     },
     {
         "logo" : "assets/image/logo/quicksilver.svg",
@@ -105,7 +177,16 @@
         "descripcion" : "SWEATER ROXY",
         "legal": "HASTA AGOTAR STOCK",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "",
+        "disclaimer2": "SWEATER ROXY",
+        "disclaimer3": ""   ,
+        "porcentaje": "",
+        "texto": "",
+        "precio": "69",
+        "preciodecimal": ".90" 
     },
     {
         "logo" : "assets/image/logo/quicksilver.svg",
@@ -117,7 +198,16 @@
         "descripcion" : "DC SHOES",
         "legal": "HASTA AGOTAR STOCK",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "DESDE",
+        "disclaimer2": "DC SHOES",
+        "disclaimer3": ""   ,
+        "porcentaje": "",
+        "texto": "",
+        "precio": "79",
+        "preciodecimal": ".90" 
     },
     {
         "logo" : "assets/image/logo/quicksilver.svg",
@@ -129,7 +219,16 @@
         "descripcion" : "TANK ROXY",
         "legal": "HASTA AGOTAR STOCK",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "DESDE",
+        "disclaimer2": "DC SHOES",
+        "disclaimer3": ""   ,
+        "porcentaje": "",
+        "texto": "",
+        "precio": "79",
+        "preciodecimal": ".90" 
     },
     {
         "logo" : "assets/image/logo/peak-sport.png",
@@ -141,7 +240,37 @@
         "descripcion" : "",
         "legal": "no aplica con otras promociones, no acumulable, vigencia de la oferta hasta agotar stock.",
         "publish": true,
-        "category": "DEPORTES"
+        "category": "DEPORTES",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "ZAPATILLAS NBA",
+        "disclaimer3": ""   ,
+        "porcentaje": "50%",
+        "texto": "",
+        "precio": "",
+        "preciodecimal": "" 
+    },
+    {
+        "logo" : "assets/image/logo/peak-sport.png",
+        "logoB" : "assets/image/logo/blanco/peak-sport.png",
+        "wlogo": "w-45",
+        "nombre" : "PEAK SPORT",
+        "titulo" : "", 
+        "subtitulo" : "", 
+        "descripcion" : "",
+        "legal": "no aplica con otras promociones, no acumulable, vigencia de la oferta hasta agotar stock.",
+        "publish": true,
+        "category": "DEPORTES",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "DESDE",
+        "disclaimer2": "CAMISETAS, SHORTS Y ZAPATILLAS",
+        "disclaimer3": ""   ,
+        "porcentaje": "",
+        "texto": "",
+        "precio": "20",
+        "preciodecimal": ".00" 
     },
     {
         "logo" : "assets/image/logo/glace.png",
@@ -153,7 +282,16 @@
         "descripcion" : "Por la compra de Milshake",
         "legal": "Jueves 27 de agosto al sabado 29 de agosto. Jueves 3 de septiembre al sabado 5 de septiembre. Jueves 10 de septiembre al 13 de septiembre",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "ARMA TU HELADO",
+        "disclaimer2": "CON BARQUILLOS Y ROLLITOS",
+        "disclaimer3": ""   ,
+        "porcentaje": "",
+        "texto": "",
+        "precio": "12",
+        "preciodecimal": ".90" 
     },
     {
         "logo" : "assets/image/logo/helados.png",
@@ -165,7 +303,16 @@
         "descripcion" : "en toda la carta",
         "legal": "Por compras mayores a s/ 40.00 (Pagos en efectivo y YAPE)",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN TODA LA CARTA",
+        "disclaimer3": ""   ,
+        "porcentaje": "20%",
+        "texto": "",
+        "precio": "",
+        "preciodecimal": "" 
     },
     {
         "logo" : "assets/image/logo/sabores-peruanos.png",
@@ -177,7 +324,16 @@
         "descripcion" : "POR EL CONSUMO IGUAL O MAYOR A S/ 60.00 SOLES",
         "legal": "Las promociones son solo disponible para llevar. Promoción válida del 4 al 18 de setiembre de 2020.",
         "publish": true,
-        "category": "COMIDAS"
+        "category": "COMIDAS",
+        "semana": "1",
+        "plantilla": "2",
+        "disclaimer1": "GRATIS LA JARRA",
+        "disclaimer2": "CONSUMO IGUAL O MAYOR S/60.00",
+        "disclaimer3": "CHICHA O LIMONADA",
+        "porcentaje": "",
+        "texto": "1L DE CHICHA",
+        "precio": "",
+        "preciodecimal": "" 
     },
     {
         "logo" : "assets/image/logo/la-curacao.png",
@@ -189,7 +345,16 @@
         "descripcion" : "por la Compra de una consola PS4 MEGAPACK 6",
         "legal": "Oferta válida todo el mes de setiembre o hasta agotar stock máximo 40 unidades. Promociones son exclusivas en Tienda La Curacao Quinde Cajamarca. No válido para venta mayorista (Máx. 3 unidades). Promociones no acumulables.",
         "publish": true,
-        "category": "TECNOLOGIA"
+        "category": "TECNOLOGIA",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "",
+        "disclaimer2": "EL JUEGO DE PLAY STATION",
+        "disclaimer3": "CHICHA O LIMONADA",
+        "porcentaje": "",
+        "texto": "",
+        "precio": "49",
+        "preciodecimal": ".00" 
     },
     {
         "logo" : "assets/image/logo/american-brands.svg",
@@ -200,7 +365,16 @@
         "subtitulo" : "2X1", 
         "descripcion" : "Marca seleccionada Fiorucci / No incluye básicos y accesorios",
         "publish": true,
-        "category": "VESTUARIO"
+        "category": "VESTUARIO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": "",
+        "precio": "49",
+        "preciodecimal": ".00" 
     },
     {
         "logo" : "assets/image/logo/encanta2.png",
@@ -212,7 +386,16 @@
         "descripcion" : "Buggui con luces y música marca Mitical para niño y niña",
         "legal": "Promoción válida del 4 al 20 de setiembre y/o hasta agotar stock. Stock 14 unidades. Descripción del producto: Buggui marca Mitical medidas: 75x32.5x36.5 cm",
         "publish": true,
-        "category": "INFANTIL"
+        "category": "INFANTIL",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "",
+        "disclaimer2": "BUGGUI CON LUCES Y MÚSICA",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": "",
+        "precio": "200",
+        "preciodecimal": ".00" 
     },
     {
         "logo" : "assets/image/logo/weinbrenner.svg",
@@ -224,7 +407,16 @@
         "descripcion" : "",
         "legal": "Hasta 60% de descuento en todo Outdoor ropa, calzado y accesorios en artículos seleccionados. Aplica para artículos que no tenga un descuento vigente, sólo con precio planilla. Stock mínimo 5 unidades por artículo. Válido una promoción por transacción. Promoción válida del 14 de setiembre al 05 de octubre del 2020 y/o hasta agotar stock. Consultar stock y disponibilidad con el vendedor. Aplica con cualquier medio de pago. No acumulable con otras promociones ni descuentos unitarios. Promoción válida para todas las tiendas Weinbrenner de Lima y Provincia.",
         "publish": true,
-        "category": "DEPORTES"
+        "category": "DEPORTES",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "OFF EN TODO OUTDOOR",
+        "disclaimer3": "",
+        "porcentaje": "60%",
+        "texto": "",
+        "precio": "",
+        "preciodecimal": "" 
     },
     {
         "logo" : "assets/image/logo/oceano.png",
@@ -236,7 +428,16 @@
         "descripcion" : "",
         "legal": "PRODUCTOS SELECCIONADOS Y HASTA AGOTAR STOCK",
         "publish": true,
-        "category": "MALETERIA"
+        "category": "MALETERIA",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "DESDE",
+        "disclaimer2": "MOCHILAS",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": "",
+        "precio": "29",
+        "preciodecimal": ".90" 
     },
     {
         "logo" : "assets/image/logo/baby-infanti.png",
@@ -248,7 +449,16 @@
         "descripcion" : "",
         "legal": "promoción válida hasta el 30 de septiembre del 2020 y/o hasta agotar stock. No acumulable con otros descuentos y promociones.",
         "publish": true,
-        "category": "INFANTIL"
+        "category": "INFANTIL",
+        "semana": "1",
+        "plantilla": "3",
+        "disclaimer1": "OFERTA",
+        "disclaimer2": "CORRAL LUNA + COLCHÓN INFANTIL",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": "",
+        "precio": "509",
+        "preciodecimal": ".00" 
     },
     {
         "logo" : "assets/image/logo/bubble-gummers.png",
@@ -260,7 +470,16 @@
         "descripcion" : "",
         "legal": "Vigencia del 01 al 21 de setiembre del 2020 y/o hasta agotar stock. Llévate 2x1 en artículos seleccionados, incluye ropa, calzado y accesorios (consultar en tienda por artículos en descuento). Los descuentos aplican sobre precio planilla. Válido en todas las tiendas Bubblegummers a nivel nacional. No acumulable con otras promociones u ofertas. Promoción sujeta a cambios sin previo aviso. Stock mínimo de 5 pares por artículo. No válido para marcas terceras (Skechers).",
         "publish": true,
-        "category": "CALZADO"
+        "category": "CALZADO",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "ARTICULOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": "",
+        "precio": "",
+        "preciodecimal": "" 
     },
     {
         "logo" : "assets/image/logo/coolbox.svg",
@@ -272,7 +491,16 @@
         "descripcion" : "",
         "legal": "Oferta válida del 1 al 30 de setiembre de 2020 y/o hasta agotar stock de 10 unidades. Códigos seleccionados, consultar en tienda. Participan las categorías: Baterías externas, cables y cargadores, Accesorios para tablets, audífonos bluetooth hands free, Soportes de celular para autos, herramientas y accesorios para autos. Los códigos pueden variar por tienda. Se paga al 100% el producto de mayor valor. El dscto. Se aplica en el producto de menor valor. Fotos referenciales. El descuento de baterías externas solo aplica para baterías menores a 10,000 mAh. No participa la batería externa Hummer.",
         "publish": true,
-        "category": "TECNOLOGIA"
+        "category": "TECNOLOGIA",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",
+        "disclaimer3": "",
+        "porcentaje": "",
+        "texto": "",
+        "precio": "",
+        "preciodecimal": "" 
     },
     {
         "logo" : "assets/image/logo/flor-ideas.png",
@@ -284,7 +512,16 @@
         "descripcion" : "",
         "legal": "Solo en rosas",
         "publish": true,
-        "category": "OTROS"
+        "category": "OTROS",
+        "semana": "1",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN CAJAS DE 12 ROSAS",
+        "disclaimer3": "",
+        "porcentaje": "20%",
+        "texto": "",
+        "precio": "",
+        "preciodecimal": "" 
     }    
     
 ]
