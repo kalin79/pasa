@@ -1,6 +1,6 @@
 [
     {
-        "logo" : "assets/image/logo/maui-sons.png",
+        "logo" : "assets/image/logo/negro/maui-sons.png",
         "logoB" : "assets/image/logo/blanco/maui-sons.png",
         "wlogo": "w-110",
         "nombre" : "MAUI AND SONS / RIP CURL",
@@ -21,7 +21,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/GMO-05.svg",
+        "logo" : "assets/image/logo/negro/GMO-05.svg",
         "logoB" : "assets/image/logo/blanco/gmo.png",
         "wlogo": "w-100",
         "nombre" : "OPTICAS GMO",
@@ -42,7 +42,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/new-athletic.png",
+        "logo" : "assets/image/logo/negro/new-athletic.png",
         "logoB" : "assets/image/logo/blanco/new-athletic.png",
         "wlogo": "w-100",
         "nombre" : "NEW ATHLETIC",
@@ -63,7 +63,7 @@
         "preciodecimal": ".00"
     },
     {
-        "logo" : "assets/image/logo/quicksilver.png",
+        "logo" : "assets/image/logo/negro/quicksilver.png",
         "logoB" : "assets/image/logo/blanco/quicksilver.png",
         "wlogo": "w-100",
         "nombre" : "QUIKSILVER",
@@ -84,7 +84,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/pionier.png",
+        "logo" : "assets/image/logo/negro/pionier.png",
         "logoB" : "assets/image/logo/blanco/pionier.png",
         "wlogo": "w-90",
         "nombre" : "Pionier",
@@ -104,7 +104,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/incapalca.png",
+        "logo" : "assets/image/logo/negro/incapalca.png",
         "logoB" : "assets/image/logo/blanco/incapalca.png",
         "wlogo": "w-100",
         "nombre" : "Incalpaca",
@@ -125,7 +125,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/helados-igloo.png",
+        "logo" : "assets/image/logo/negro/helados-igloo.png",
         "logoB" : "assets/image/logo/blanco/helados-igloo.png",
         "wlogo": "w-70",
         "nombre" : "IGLOO",
@@ -146,7 +146,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/aeropostale.png",
+        "logo" : "assets/image/logo/negro/aeropostale.png",
         "logoB" : "assets/image/logo/blanco/aeropostale.png",
         "wlogo": "w-70",
         "nombre" : "Aeropostale",
@@ -167,7 +167,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/vista-mar.png",
+        "logo" : "assets/image/logo/negro/vista-mar.png",
         "logoB" : "assets/image/logo/blanco/vista-mar.png",
         "wlogo": "w-70",
         "nombre" : "Vista al mar",
@@ -188,7 +188,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/american-brands.svg",
+        "logo" : "assets/image/logo/negro/american-brands.png",
         "logoB" : "assets/image/logo/blanco/american-brands.png",
         "wlogo": "w-70",
         "nombre" : "American brands",
@@ -209,7 +209,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/mae-alcott.png",
+        "logo" : "assets/image/logo/negro/mae-alcott.png",
         "logoB" : "assets/image/logo/blanco/mae-alcott.png",
         "wlogo": "w-70",
         "nombre" : "MAE ALCOTT & CP MODA DE COLECCION",
@@ -230,7 +230,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/vivo-hogar.png",
+        "logo" : "assets/image/logo/negro/vivo-hogar.png",
         "logoB" : "assets/image/logo/blanco/vivo-hogar.png",
         "wlogo": "w-45",
         "nombre" : "Vivo Hogar",
@@ -251,7 +251,7 @@
         "preciodecimal": ".00"
     },
     {
-        "logo" : "assets/image/logo/o-neill.png",
+        "logo" : "assets/image/logo/negro/o-neill.png",
         "logoB" : "assets/image/logo/blanco/o-neill.png",
         "wlogo": "w-140",
         "nombre" : "O'Neill",
@@ -272,7 +272,7 @@
         "preciodecimal": ".00"
     },
     {
-        "logo" : "assets/image/logo/diverxia.svg",
+        "logo" : "assets/image/logo/negro/diverxia.png",
         "logoB" : "assets/image/logo/blanco/diverxia.png",
         "wlogo": "w-80",
         "nombre" : "Diverxia",

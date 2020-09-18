@@ -1,6 +1,6 @@
 [
     {
-        "logo" : "assets/image/logo/mossa.png",
+        "logo" : "assets/image/logo/negro/mossa.png",
         "logoB" : "assets/image/logo/blanco/mossa.png",
         "wlogo": "w-110",
         "nombre" : "MOSSA SHOES",
@@ -19,7 +19,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/maui-sons.png",
+        "logo" : "assets/image/logo/negro/maui-sons.png",
         "logoB" : "assets/image/logo/blanco/maui-sons.png",
         "wlogo": "w-110",
         "nombre" : "MAUI AND SONS",
@@ -38,7 +38,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/new-athletic.png",
+        "logo" : "assets/image/logo/negro/new-athletic.png",
         "logoB" : "assets/image/logo/blanco/new-athletic.png",
         "wlogo": "w-100",
         "nombre" : "NEW ATHLETIC",
@@ -59,7 +59,7 @@
         "preciodecimal": ".00"
     },
     {
-        "logo" : "assets/image/logo/riff-raff.png",
+        "logo" : "assets/image/logo/negro/riff-raff.png",
         "logoB" : "assets/image/logo/blanco/riff-raff.png",
         "wlogo": "w-100",
         "nombre" : "RIFF&RAFF",
@@ -80,7 +80,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/incapalca.png",
+        "logo" : "assets/image/logo/negro/incapalca.png",
         "logoB" : "assets/image/logo/blanco/incapalca.png",
         "wlogo": "w-100",
         "nombre" : "Incalpaca",
@@ -101,7 +101,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/nacion1821.png",
+        "logo" : "assets/image/logo/negro/nacion1821.png",
         "logoB" : "assets/image/logo/blanco/nacion1821.png",
         "wlogo": "w-70",
         "nombre" : "Nación 1821",
@@ -122,7 +122,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/american-brands.svg",
+        "logo" : "assets/image/logo/negro/american-brands.png",
         "logoB" : "assets/image/logo/blanco/american-brands.svg",
         "wlogo": "w-70",
         "nombre" : "American brands",
@@ -143,7 +143,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/squeeze.png",
+        "logo" : "assets/image/logo/negro/squeeze.png",
         "logoB" : "assets/image/logo/blanco/squeeze.png",
         "wlogo": "w-70",
         "nombre" : "Squeeze",
@@ -164,7 +164,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/PRUNE-19.svg",
+        "logo" : "assets/image/logo/negro/PRUNE-19.svg",
         "logoB" : "assets/image/logo/blanco/PRUNE-19.svg",
         "wlogo": "w-70",
         "nombre" : "PRÜNE",
@@ -185,7 +185,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/billabong.png",
+        "logo" : "assets/image/logo/negro/billabong.png",
         "logoB" : "assets/image/logo/blanco/billabong.png",
         "wlogo": "w-70",
         "nombre" : "Billabong",
@@ -206,7 +206,7 @@
         "preciodecimal": ".00"
     },
     {
-        "logo" : "assets/image/logo/youroutlet.png",
+        "logo" : "assets/image/logo/negro/youroutlet.png",
         "logoB" : "assets/image/logo/blanco/youroutlet.png",
         "wlogo": "w-80",
         "nombre" : "Diverxia",
