@@ -164,8 +164,8 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/negro/PRUNE-19.svg",
-        "logoB" : "assets/image/logo/blanco/PRUNE-19.svg",
+        "logo" : "assets/image/logo/negro/prune.png",
+        "logoB" : "assets/image/logo/blanco/prune.png",
         "wlogo": "w-70",
         "nombre" : "PRÜNE",
         "titulo" : "Extra", 

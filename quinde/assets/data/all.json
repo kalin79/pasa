@@ -42,8 +42,8 @@
         "preciodecimal": ".00"
     },
     {
-        "logo" : "assets/image/logo/negro/porta.svg",
-        "logoB" : "assets/image/logo/blanco/porta.svg",
+        "logo" : "assets/image/logo/negro/porta.png",
+        "logoB" : "assets/image/logo/blanco/porta.png",
         "wlogo": "w-100",
         "nombre" : "PORTA",
         "titulo" : "HASTA", 
@@ -63,8 +63,8 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/negro/viale.svg",
-        "logoB" : "assets/image/logo/blanco/viale.svg",
+        "logo" : "assets/image/logo/negro/viale.png",
+        "logoB" : "assets/image/logo/blanco/viale.png",
         "wlogo": "w-100",
         "nombre" : "VIALE",
         "titulo" : "", 
@@ -126,8 +126,8 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/negro/quicksilver.svg",
-        "logoB" : "assets/image/logo/blanco/quicksilver.svg",
+        "logo" : "assets/image/logo/negro/quicksilver.png",
+        "logoB" : "assets/image/logo/blanco/quicksilver.png",
         "wlogo": "w-70",
         "nombre" : "QUIKSILVER",
         "titulo" : "", 
@@ -147,8 +147,8 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/negro/quicksilver.svg",
-        "logoB" : "assets/image/logo/blanco/quicksilver.svg",
+        "logo" : "assets/image/logo/negro/quicksilver.png",
+        "logoB" : "assets/image/logo/blanco/quicksilver.png",
         "wlogo": "w-70",
         "nombre" : "QUIKSILVER",
         "titulo" : "", 
@@ -168,8 +168,8 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/negro/quicksilver.svg",
-        "logoB" : "assets/image/logo/blanco/quicksilver.svg",
+        "logo" : "assets/image/logo/negro/quicksilver.png",
+        "logoB" : "assets/image/logo/blanco/quicksilver.png",
         "wlogo": "w-70",
         "nombre" : "QUIKSILVER",
         "titulo" : "", 
@@ -189,8 +189,8 @@
         "preciodecimal": ".90" 
     },
     {
-        "logo" : "assets/image/logo/negro/quicksilver.svg",
-        "logoB" : "assets/image/logo/blanco/quicksilver.svg",
+        "logo" : "assets/image/logo/negro/quicksilver.png",
+        "logoB" : "assets/image/logo/blanco/quicksilver.png",
         "wlogo": "w-70",
         "nombre" : "QUIKSILVER",
         "titulo" : "DESDE", 
@@ -210,8 +210,8 @@
         "preciodecimal": ".90" 
     },
     {
-        "logo" : "assets/image/logo/negro/quicksilver.svg",
-        "logoB" : "assets/image/logo/blanco/quicksilver.svg",
+        "logo" : "assets/image/logo/negro/quicksilver.png",
+        "logoB" : "assets/image/logo/blanco/quicksilver.png",
         "wlogo": "w-70",
         "nombre" : "QUIKSILVER",
         "titulo" : "DESDE", 
@@ -357,8 +357,8 @@
         "preciodecimal": ".00" 
     },
     {
-        "logo" : "assets/image/logo/negro/american-brands.svg",
-        "logoB" : "assets/image/logo/blanco/american-brands.svg",
+        "logo" : "assets/image/logo/negro/american-brands.png",
+        "logoB" : "assets/image/logo/blanco/american-brands.png",
         "wlogo": "w-100",
         "nombre" : "AMERICAN BRANDS",
         "titulo" : "", 
@@ -398,8 +398,8 @@
         "preciodecimal": ".00" 
     },
     {
-        "logo" : "assets/image/logo/negro/weinbrenner.svg",
-        "logoB" : "assets/image/logo/blanco/weinbrenner.svg",
+        "logo" : "assets/image/logo/negro/weinbrenner.png",
+        "logoB" : "assets/image/logo/blanco/weinbrenner.png",
         "wlogo": "w-80",
         "nombre" : "Weinbrenner",
         "titulo" : "", 
@@ -482,8 +482,8 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/negro/coolbox.svg",
-        "logoB" : "assets/image/logo/blanco/coolbox.svg",
+        "logo" : "assets/image/logo/negro/coolbox.png",
+        "logoB" : "assets/image/logo/blanco/coolbox.png",
         "wlogo": "w-60",
         "nombre" : "Coolbox",
         "titulo" : "", 
