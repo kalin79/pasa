@@ -257,7 +257,7 @@
         "disclaimer3": "",
         "porcentaje": "50%",
         "precio": "",
-        "precio-decimal": ""
+        "preciodecimal": ""
     },
     {
         "logo" : "assets/image/logo/exit.png",
@@ -429,7 +429,7 @@
         "disclaimer3": "",
         "porcentaje": "",
         "precio": "39",
-        "precio-decimal": ".00"
+        "preciodecimal": ".00"
     },
     {
         "logo" : "assets/image/logo/hoseg.png",
@@ -449,7 +449,7 @@
         "disclaimer3": "",
         "porcentaje": "30%",
         "precio": "",
-        "precio-decimal": ""
+        "preciodecimal": ""
     },
     {
         "logo" : "assets/image/logo/mangos-02.svg",
@@ -488,7 +488,7 @@
         "disclaimer3": "",
         "porcentaje": "",
         "precio": "",
-        "precio-decimal": ""
+        "preciodecimal": ""
     },
     {
         "logo" : "assets/image/logo/coolbox-11.svg",
@@ -508,7 +508,7 @@
         "disclaimer3": "",
         "porcentaje": "",
         "precio": "",
-        "precio-decimal": ""
+        "preciodecimal": ""
     },
     {
         "logo" : "assets/image/logo/la-bonbonniere.png",
@@ -566,7 +566,7 @@
         "disclaimer3": "",
         "porcentaje": "30%",
         "precio": "",
-        "precio-decimal": ""
+        "preciodecimal": ""
     },
     {
         "logo" : "assets/image/logo/maestro-tzu.svg",
@@ -834,7 +834,7 @@
         "porcentaje": "",
         "texto": "",
         "precio": "S/.16",
-        "precio-decimal": ".90"
+        "preciodecimal": ".90"
     },
     {
         "logo" : "assets/image/logo/haagen dazs-07.svg",
