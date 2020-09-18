@@ -1,7 +1,7 @@
 [
     {
         "logo" : "assets/image/logo/the-athletes-foot.svg",
-        "logoB" : "assets/image/logo/blanco/the_athletes_foot_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/TheAthletesfoot.png",
         "wlogo": "w-110",
         "nombre" : "The Athlete´s Foot",
         "titulo" : "", 
@@ -20,7 +20,7 @@
     },
     {
         "logo" : "assets/image/logo/bruno-ferrini-25.svg",
-        "logoB" : "assets/image/logo/blanco/bruno_ferrini_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/BrunoFerrini.png",
         "wlogo": "w-100",
         "nombre" : "Bruno Ferrini",
         "titulo" : "", 
@@ -39,7 +39,7 @@
     },
     {
         "logo" : "assets/image/logo/strata_logo_blanco.png",
-        "logoB" : "assets/image/logo/blanco/strata_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Strata.png",
         "wlogo": "w-100",
         "nombre" : "STRATA",
         "titulo" : "", 
@@ -134,7 +134,7 @@
     },
     {
         "logo" : "assets/image/logo/sophie-crown.png",
-        "logoB" : "assets/image/logo/blanco/sophie_crown_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/SophieCrown.png",
         "wlogo": "w-70",
         "nombre" : "Sophie Crown",
         "titulo" : "Hasta", 
@@ -153,7 +153,7 @@
     },
     {
         "logo" : "assets/image/logo/sophie-crown.png",
-        "logoB" : "assets/image/logo/blanco/qala_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Qala.png",
         "wlogo": "w-70",
         "nombre" : "QALA",
         "titulo" : "Hasta", 
@@ -172,7 +172,7 @@
     },
     {
         "logo" : "assets/image/logo/montalvo.png",
-        "logoB" : "assets/image/logo/blanco/montalvo_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Montalvo.png",
         "wlogo": "w-70",
         "nombre" : "Montalvo larcomar",
         "titulo" : "", 
@@ -191,7 +191,7 @@
     },
     {
         "logo" : "assets/image/logo/jardin-zen.png",
-        "logoB" : "assets/image/logo/blanco/jardin_del_zen_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/JardindelEden.png",
         "wlogo": "w-70",
         "nombre" : "JARDINES DEL ZEN",
         "titulo" : "", 
@@ -210,7 +210,7 @@
     },
     {
         "logo" : "assets/image/logo/DESIGUAL.svg",
-        "logoB" : "assets/image/logo/blanco/desigual_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Desigual.png",
         "wlogo": "w-100",
         "nombre" : "Desigual",
         "titulo" : "Hasta", 
@@ -222,7 +222,7 @@
     },
     {
         "logo" : "assets/image/logo/anntarah-09.svg",
-        "logoB" : "assets/image/logo/blanco/Anntarah_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Anntarah.png",
         "wlogo": "w-140",
         "nombre" : "Anntarah",
         "titulo" : "Hasta", 
@@ -241,7 +241,7 @@
     },
     {
         "logo" : "assets/image/logo/KUNA-16.svg",
-        "logoB" : "assets/image/logo/blanco/kuna_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Kuna.png",
         "wlogo": "w-80",
         "nombre" : "KUNA",
         "titulo" : "", 
@@ -261,7 +261,7 @@
     },
     {
         "logo" : "assets/image/logo/exit.png",
-        "logoB" : "assets/image/logo/blanco/exit_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Exit.png",
         "wlogo": "w-60",
         "nombre" : "EXIT",
         "titulo" : "Hasta", 
@@ -280,7 +280,7 @@
     },
     {
         "logo" : "assets/image/logo/salomon.png",
-        "logoB" : "assets/image/logo/blanco/salomon_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Salomon.png",
         "wlogo": "w-100",
         "nombre" : "Salomon",
         "titulo" : "", 
@@ -299,7 +299,7 @@
     },
     {
         "logo" : "assets/image/logo/salomon.png",
-        "logoB" : "assets/image/logo/blanco/salomon_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Salomon.png",
         "wlogo": "w-100",
         "nombre" : "Salomon",
         "titulo" : "", 
@@ -318,7 +318,7 @@
     },
     {
         "logo" : "assets/image/logo/RIPCURL-20.svg",
-        "logoB" : "assets/image/logo/blanco/ripcurl_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Ripcurl.png",
         "wlogo": "w-80",
         "nombre" : "RIP CURL",
         "titulo" : "Hasta", 
@@ -337,7 +337,7 @@
     },
     {
         "logo" : "assets/image/logo/PRUNE-19.svg",
-        "logoB" : "assets/image/logo/blanco/PRUNE-19.svg",
+        "logoB" : "assets/image/logo/blanco/Prune.png",
         "wlogo": "w-80",
         "nombre" : "PRÜNE",
         "titulo" : "", 
@@ -375,7 +375,7 @@
     },
     {
         "logo" : "assets/image/logo/sol-alpaca-10.svg",
-        "logoB" : "assets/image/logo/blanco/solalpaca_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/SolAlpaca.png",
         "wlogo": "w-100",
         "nombre" : "Sol Alpaca",
         "titulo" : "", 
@@ -394,7 +394,7 @@
     },
     {
         "logo" : "assets/image/logo/puma.png",
-        "logoB" : "assets/image/logo/blanco/puma_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Puma.png",
         "wlogo": "w-80",
         "nombre" : "Puma",
         "titulo" : "Hasta", 
@@ -413,7 +413,7 @@
     },
     {
         "logo" : "assets/image/logo/TANTA-37.svg",
-        "logoB" : "assets/image/logo/blanco/tanta_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Tanta.png",
         "wlogo": "w-60",
         "nombre" : "Tanta",
         "titulo" : " A solo", 
@@ -433,7 +433,7 @@
     },
     {
         "logo" : "assets/image/logo/hoseg.png",
-        "logoB" : "assets/image/logo/blanco/hoseg_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/hoseg.png",
         "wlogo": "w-60",
         "nombre" : "hoseg",
         "titulo" : "Hasta", 
@@ -453,7 +453,7 @@
     },
     {
         "logo" : "assets/image/logo/mangos-02.svg",
-        "logoB" : "assets/image/logo/blanco/mangos_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Mangos.png",
         "wlogo": "w-55",
         "nombre" : "MANGOS",
         "titulo" : "", 
@@ -512,7 +512,7 @@
     },
     {
         "logo" : "assets/image/logo/la-bonbonniere.png",
-        "logoB" : "assets/image/logo/blanco/la_bonboniere_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Labombonniere.png",
         "wlogo": "w-100",
         "nombre" : "La Bonbonniere",
         "titulo" : "", 
@@ -550,7 +550,7 @@
     },
     {
         "logo" : "assets/image/logo/GMO-05.svg",
-        "logoB" : "assets/image/logo/blanco/gmo_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/GMO.png",
         "wlogo": "w-100",
         "nombre" : "OPTICAS GMO",
         "titulo" : "", 
@@ -570,7 +570,7 @@
     },
     {
         "logo" : "assets/image/logo/maestro-tzu.svg",
-        "logoB" : "assets/image/logo/blanco/maestro_tzu_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/MaestroTzu.png",
         "wlogo": "w-100",
         "nombre" : "Maestro Tzu",
         "titulo" : "", 
@@ -589,7 +589,7 @@
     },
     {
         "logo" : "assets/image/logo/lippi.png",
-        "logoB" : "assets/image/logo/blanco/lippi_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Lippi.png",
         "wlogo": "w-80",
         "nombre" : "LIPPI",
         "titulo" : "Hasta", 
@@ -608,7 +608,7 @@
     },
     {
         "logo" : "assets/image/logo/pure-alpaca-03.svg",
-        "logoB" : "assets/image/logo/blanco/pure_alpaca_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Pure.png",
         "wlogo": "w-80",
         "nombre" : "Pure Alpaca",
         "titulo" : "", 
@@ -627,7 +627,7 @@
     },
     {
         "logo" : "assets/image/logo/SUNGLASS-HUT.svg",
-        "logoB" : "assets/image/logo/blanco/sunglasshut.png",
+        "logoB" : "assets/image/logo/blanco/SunglassHut.png",
         "wlogo": "w-65",
         "nombre" : "Sunglass Hut",
         "titulo" : "", 
@@ -646,7 +646,7 @@
     },
     {
         "logo" : "assets/image/logo/mbo.png",
-        "logoB" : "assets/image/logo/blanco/mbo_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Mbo.png",
         "wlogo": "w-80",
         "nombre" : "M.bö",
         "titulo" : "", 
@@ -684,7 +684,7 @@
     },
     {
         "logo" : "assets/image/logo/columbia.png",
-        "logoB" : "assets/image/logo/blanco/columbia_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Columbia.png",
         "wlogo": "w-95",
         "nombre" : "Columbia",
         "titulo" : "Hasta", 
@@ -703,7 +703,7 @@
     },
     {
         "logo" : "assets/image/logo/patagonia.png",
-        "logoB" : "assets/image/logo/blanco/patagonia_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Patagonia.png",
         "wlogo": "w-95",
         "nombre" : "Patagonia",
         "titulo" : "Hasta", 
@@ -722,7 +722,7 @@
     },
     {
         "logo" : "assets/image/logo/RKF.png",
-        "logoB" : "assets/image/logo/blanco/rockford_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/RKF.png",
         "wlogo": "w-80",
         "nombre" : "Rockford",
         "titulo" : "Hasta", 
@@ -741,7 +741,7 @@
     },
     {
         "logo" : "assets/image/logo/CREPIER-27.svg",
-        "logoB" : "assets/image/logo/blanco/crepier_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Crepier.png",
         "wlogo": "w-100",
         "nombre" : "Crepier",
         "titulo" : "Hasta", 
@@ -760,7 +760,7 @@
     },
     {
         "logo" : "assets/image/logo/ibero-librerias.svg",
-        "logoB" : "assets/image/logo/blanco/ibero_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/IberoLibrerias.png",
         "wlogo": "w-80",
         "nombre" : "Ibero",
         "titulo" : "", 
@@ -779,7 +779,7 @@
     },
     {
         "logo" : "assets/image/logo/guess-02.svg",
-        "logoB" : "assets/image/logo/blanco/guess_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Guess.png",
         "wlogo": "w-50",
         "nombre" : "GUESS",
         "titulo" : "Hasta", 
@@ -798,7 +798,7 @@
     },
     {
         "logo" : "assets/image/logo/lucio-cafe.png",
-        "logoB" : "assets/image/logo/blanco/lucio_cafe_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/LucioCafe.png",
         "wlogo": "w-50",
         "nombre" : "LUCIO CAFFE",
         "titulo" : "Desayunos Lucio", 
@@ -817,7 +817,7 @@
     },
     {
         "logo" : "assets/image/logo/lucio-cafe.png",
-        "logoB" : "assets/image/logo/blanco/lucio_cafe_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/LucioCafe.png",
         "wlogo": "w-50",
         "nombre" : "LUCIO CAFFE",
         "titulo" : "Almuerzos a tu medida", 
@@ -838,7 +838,7 @@
     },
     {
         "logo" : "assets/image/logo/haagen dazs-07.svg",
-        "logoB" : "assets/image/logo/blanco/haagendasz.png",
+        "logoB" : "assets/image/logo/blanco/HaagenDazs.png",
         "wlogo": "w-120",
         "nombre" : "HAAGEN DAZS",
         "titulo" : "", 
@@ -857,7 +857,7 @@
     },
     {
         "logo" : "assets/image/logo/baby-infanti.png",
-        "logoB" : "assets/image/logo/blanco/baby_infanti_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/BabyInfanti.png",
         "wlogo": "w-120",
         "nombre" : "BABY INFANTI",
         "titulo" : "Hasta", 
@@ -876,7 +876,7 @@
     },
     {
         "logo" : "assets/image/logo/nike.png",
-        "logoB" : "assets/image/logo/blanco/nike_logo_blanco.png",
+        "logoB" : "assets/image/logo/blanco/Nike.png",
         "wlogo": "w-120",
         "nombre" : "Nike",
         "titulo" : "2do producto ", 
