@@ -1,6 +1,6 @@
 [
     {
-        "logo" : "assets/image/logo/delicafe.png",
+        "logo" : "assets/image/logo/negro/delicafe.png",
         "logoB" : "assets/image/logo/blanco/delicafe.png",
         "wlogo": "w-110",
         "nombre" : "DELICAFÉ",
@@ -21,7 +21,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/tasty.png",
+        "logo" : "assets/image/logo/negro/tasty.png",
         "logoB" : "assets/image/logo/blanco/tasty.png",
         "wlogo": "w-100",
         "nombre" : "TASTY CHICKEN",
@@ -42,7 +42,7 @@
         "preciodecimal": ".00"
     },
     {
-        "logo" : "assets/image/logo/porta.svg",
+        "logo" : "assets/image/logo/negro/porta.svg",
         "logoB" : "assets/image/logo/blanco/porta.svg",
         "wlogo": "w-100",
         "nombre" : "PORTA",
@@ -63,7 +63,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/viale.svg",
+        "logo" : "assets/image/logo/negro/viale.svg",
         "logoB" : "assets/image/logo/blanco/viale.svg",
         "wlogo": "w-100",
         "nombre" : "VIALE",
@@ -84,7 +84,7 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/choripan.png",
+        "logo" : "assets/image/logo/negro/choripan.png",
         "logoB" : "assets/image/logo/blanco/choripan.png",
         "wlogo": "w-90",
         "nombre" : "CHORIPAN",
@@ -105,7 +105,7 @@
         "preciodecimal": ".00" 
     },
     {
-        "logo" : "assets/image/logo/bata.png",
+        "logo" : "assets/image/logo/negro/bata.png",
         "logoB" : "assets/image/logo/blanco/bata.png",
         "wlogo": "w-100",
         "nombre" : "Hush Puppies",
@@ -126,7 +126,7 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/quicksilver.svg",
+        "logo" : "assets/image/logo/negro/quicksilver.svg",
         "logoB" : "assets/image/logo/blanco/quicksilver.svg",
         "wlogo": "w-70",
         "nombre" : "QUIKSILVER",
@@ -147,7 +147,7 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/quicksilver.svg",
+        "logo" : "assets/image/logo/negro/quicksilver.svg",
         "logoB" : "assets/image/logo/blanco/quicksilver.svg",
         "wlogo": "w-70",
         "nombre" : "QUIKSILVER",
@@ -168,7 +168,7 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/quicksilver.svg",
+        "logo" : "assets/image/logo/negro/quicksilver.svg",
         "logoB" : "assets/image/logo/blanco/quicksilver.svg",
         "wlogo": "w-70",
         "nombre" : "QUIKSILVER",
@@ -189,7 +189,7 @@
         "preciodecimal": ".90" 
     },
     {
-        "logo" : "assets/image/logo/quicksilver.svg",
+        "logo" : "assets/image/logo/negro/quicksilver.svg",
         "logoB" : "assets/image/logo/blanco/quicksilver.svg",
         "wlogo": "w-70",
         "nombre" : "QUIKSILVER",
@@ -210,7 +210,7 @@
         "preciodecimal": ".90" 
     },
     {
-        "logo" : "assets/image/logo/quicksilver.svg",
+        "logo" : "assets/image/logo/negro/quicksilver.svg",
         "logoB" : "assets/image/logo/blanco/quicksilver.svg",
         "wlogo": "w-70",
         "nombre" : "QUIKSILVER",
@@ -231,7 +231,7 @@
         "preciodecimal": ".90" 
     },
     {
-        "logo" : "assets/image/logo/peak-sport.png",
+        "logo" : "assets/image/logo/negro/peak-sport.png",
         "logoB" : "assets/image/logo/blanco/peak-sport.png",
         "wlogo": "w-45",
         "nombre" : "PEAK SPORT",
@@ -252,7 +252,7 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/peak-sport.png",
+        "logo" : "assets/image/logo/negro/peak-sport.png",
         "logoB" : "assets/image/logo/blanco/peak-sport.png",
         "wlogo": "w-45",
         "nombre" : "PEAK SPORT",
@@ -273,7 +273,7 @@
         "preciodecimal": ".00" 
     },
     {
-        "logo" : "assets/image/logo/glace.png",
+        "logo" : "assets/image/logo/negro/glace.png",
         "logoB" : "assets/image/logo/blanco/glace.png",
         "wlogo": "w-140",
         "nombre" : "GLACE & TOPPINGS - DONOFRIO",
@@ -294,7 +294,7 @@
         "preciodecimal": ".90" 
     },
     {
-        "logo" : "assets/image/logo/helados.png",
+        "logo" : "assets/image/logo/negro/helados.png",
         "logoB" : "assets/image/logo/blanco/helados.png",
         "wlogo": "w-80",
         "nombre" : "HELADO MÁGICO",
@@ -315,7 +315,7 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/sabores-peruanos.png",
+        "logo" : "assets/image/logo/negro/sabores-peruanos.png",
         "logoB" : "assets/image/logo/blanco/sabores-peruanos.png",
         "wlogo": "w-60",
         "nombre" : "SABORES PERUANOS",
@@ -336,7 +336,7 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/la-curacao.png",
+        "logo" : "assets/image/logo/negro/la-curacao.png",
         "logoB" : "assets/image/logo/blanco/la-curacao.png",
         "wlogo": "w-100",
         "nombre" : "LA CURACAO",
@@ -357,7 +357,7 @@
         "preciodecimal": ".00" 
     },
     {
-        "logo" : "assets/image/logo/american-brands.svg",
+        "logo" : "assets/image/logo/negro/american-brands.svg",
         "logoB" : "assets/image/logo/blanco/american-brands.svg",
         "wlogo": "w-100",
         "nombre" : "AMERICAN BRANDS",
@@ -377,7 +377,7 @@
         "preciodecimal": ".00" 
     },
     {
-        "logo" : "assets/image/logo/encanta2.png",
+        "logo" : "assets/image/logo/negro/encanta2.png",
         "logoB" : "assets/image/logo/blanco/encanta2.png",
         "wlogo": "w-80",
         "nombre" : "ENCANTA2",
@@ -398,7 +398,7 @@
         "preciodecimal": ".00" 
     },
     {
-        "logo" : "assets/image/logo/weinbrenner.svg",
+        "logo" : "assets/image/logo/negro/weinbrenner.svg",
         "logoB" : "assets/image/logo/blanco/weinbrenner.svg",
         "wlogo": "w-80",
         "nombre" : "Weinbrenner",
@@ -419,7 +419,7 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/oceano.png",
+        "logo" : "assets/image/logo/negro/oceano.png",
         "logoB" : "assets/image/logo/blanco/oceano.png",
         "wlogo": "w-80",
         "nombre" : "OCEANO",
@@ -440,7 +440,7 @@
         "preciodecimal": ".90" 
     },
     {
-        "logo" : "assets/image/logo/baby-infanti.png",
+        "logo" : "assets/image/logo/negro/baby-infanti.png",
         "logoB" : "assets/image/logo/blanco/baby-infanti.png",
         "wlogo": "w-80",
         "nombre" : "Baby Infanti",
@@ -461,7 +461,7 @@
         "preciodecimal": ".00" 
     },
     {
-        "logo" : "assets/image/logo/bubble-gummers.png",
+        "logo" : "assets/image/logo/negro/bubble-gummers.png",
         "logoB" : "assets/image/logo/blanco/bubble-gummers.png",
         "wlogo": "w-80",
         "nombre" : "Bubblegummers",
@@ -482,7 +482,7 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/coolbox.svg",
+        "logo" : "assets/image/logo/negro/coolbox.svg",
         "logoB" : "assets/image/logo/blanco/coolbox.svg",
         "wlogo": "w-60",
         "nombre" : "Coolbox",
@@ -503,7 +503,7 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "assets/image/logo/flor-ideas.png",
+        "logo" : "assets/image/logo/negro/flor-ideas.png",
         "logoB" : "assets/image/logo/blanco/flor-ideas.png",
         "wlogo": "w-60",
         "nombre" : "FlorIdeas",
