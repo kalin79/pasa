@@ -1,6 +1,6 @@
 [
     {
-        "logo" : "assets/image/logo/the-athletes-foot.svg",
+        "logo" : "assets/image/logo/negro/TheAthletesfoot.png",
         "logoB" : "assets/image/logo/blanco/TheAthletesfoot.png",
         "wlogo": "w-110",
         "nombre" : "The Athlete´s Foot",
@@ -19,7 +19,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/bruno-ferrini-25.svg",
+        "logo" : "assets/image/logo/negro/BrunoFerrini.png",
         "logoB" : "assets/image/logo/blanco/BrunoFerrini.png",
         "wlogo": "w-100",
         "nombre" : "Bruno Ferrini",
@@ -38,7 +38,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/strata_logo_blanco.png",
+        "logo" : "assets/image/logo/negro/Strata.png",
         "logoB" : "assets/image/logo/blanco/Strata.png",
         "wlogo": "w-100",
         "nombre" : "STRATA",
@@ -57,7 +57,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/melissa.png",
+        "logo" : "assets/image/logo/negro/Melissa.png",
         "logoB" : "assets/image/logo/blanco/Melissa.png",
         "wlogo": "w-100",
         "nombre" : "Melissa",
@@ -76,7 +76,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/steve-madden.png",
+        "logo" : "assets/image/logo/negro/SteveMadden.png",
         "logoB" : "assets/image/logo/blanco/SteveMadden.png",
         "wlogo": "w-90",
         "nombre" : "Steve Madden",
@@ -95,7 +95,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/hush-puppies.png",
+        "logo" : "assets/image/logo/negro/HushPuppies.png",
         "logoB" : "assets/image/logo/blanco/HushPuppies.png",
         "wlogo": "w-100",
         "nombre" : "Hush Puppies",
@@ -114,7 +114,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/florsheim.png",
+        "logo" : "assets/image/logo/negro/Florsheim.png",
         "logoB" : "assets/image/logo/blanco/Florsheim.png",
         "wlogo": "w-70",
         "nombre" : "Florsheim",
@@ -133,7 +133,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/sophie-crown.png",
+        "logo" : "assets/image/logo/negro/SophieCrown.png",
         "logoB" : "assets/image/logo/blanco/SophieCrown.png",
         "wlogo": "w-70",
         "nombre" : "Sophie Crown",
@@ -152,7 +152,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/sophie-crown.png",
+        "logo" : "assets/image/logo/negro/Qala.png",
         "logoB" : "assets/image/logo/blanco/Qala.png",
         "wlogo": "w-70",
         "nombre" : "QALA",
@@ -171,7 +171,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/montalvo.png",
+        "logo" : "assets/image/logo/negro/Montalvo.png",
         "logoB" : "assets/image/logo/blanco/Montalvo.png",
         "wlogo": "w-70",
         "nombre" : "Montalvo larcomar",
@@ -190,7 +190,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/jardin-zen.png",
+        "logo" : "assets/image/logo/negro/JardindelEden.png",
         "logoB" : "assets/image/logo/blanco/JardindelEden.png",
         "wlogo": "w-70",
         "nombre" : "JARDINES DEL ZEN",
@@ -209,7 +209,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/DESIGUAL.svg",
+        "logo" : "assets/image/logo/negro/Desigual.png",
         "logoB" : "assets/image/logo/blanco/Desigual.png",
         "wlogo": "w-100",
         "nombre" : "Desigual",
@@ -221,7 +221,7 @@
         "category": "VESTUARIO"
     },
     {
-        "logo" : "assets/image/logo/anntarah-09.svg",
+        "logo" : "assets/image/logo/negro/Anntarah.png",
         "logoB" : "assets/image/logo/blanco/Anntarah.png",
         "wlogo": "w-140",
         "nombre" : "Anntarah",
@@ -240,7 +240,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/KUNA-16.svg",
+        "logo" : "assets/image/logo/negro/Kuna.png",
         "logoB" : "assets/image/logo/blanco/Kuna.png",
         "wlogo": "w-80",
         "nombre" : "KUNA",
@@ -260,7 +260,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/exit.png",
+        "logo" : "assets/image/logo/negro/Exit.png",
         "logoB" : "assets/image/logo/blanco/Exit.png",
         "wlogo": "w-60",
         "nombre" : "EXIT",
@@ -279,7 +279,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/salomon.png",
+        "logo" : "assets/image/logo/negro/Salomon.png",
         "logoB" : "assets/image/logo/blanco/Salomon.png",
         "wlogo": "w-100",
         "nombre" : "Salomon",
@@ -298,7 +298,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/salomon.png",
+        "logo" : "assets/image/logo/negro/Salomon.png",
         "logoB" : "assets/image/logo/blanco/Salomon.png",
         "wlogo": "w-100",
         "nombre" : "Salomon",
@@ -317,7 +317,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/RIPCURL-20.svg",
+        "logo" : "assets/image/logo/negro/Ripcurl.png",
         "logoB" : "assets/image/logo/blanco/Ripcurl.png",
         "wlogo": "w-80",
         "nombre" : "RIP CURL",
@@ -336,7 +336,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/PRUNE-19.svg",
+        "logo" : "assets/image/logo/negro/Prune.png",
         "logoB" : "assets/image/logo/blanco/Prune.png",
         "wlogo": "w-80",
         "nombre" : "PRÜNE",
@@ -355,7 +355,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/ILARIA-17.svg",
+        "logo" : "assets/image/logo/negro/IlariaPeru.png",
         "logoB" : "assets/image/logo/blanco/IlariaPeru.png",
         "wlogo": "w-80",
         "nombre" : "ILARIA Perú",
@@ -374,7 +374,7 @@
         "texto": "GRATIS PULSERA FRANCESA"
     },
     {
-        "logo" : "assets/image/logo/sol-alpaca-10.svg",
+        "logo" : "assets/image/logo/negro/SolAlpaca.png",
         "logoB" : "assets/image/logo/blanco/SolAlpaca.png",
         "wlogo": "w-100",
         "nombre" : "Sol Alpaca",
@@ -393,7 +393,7 @@
         "texto": "GRATIS PULSERA FRANCESA"
     },
     {
-        "logo" : "assets/image/logo/puma.png",
+        "logo" : "assets/image/logo/negro/Puma.png",
         "logoB" : "assets/image/logo/blanco/Puma.png",
         "wlogo": "w-80",
         "nombre" : "Puma",
@@ -412,7 +412,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/TANTA-37.svg",
+        "logo" : "assets/image/logo/negro/Tanta.png",
         "logoB" : "assets/image/logo/blanco/Tanta.png",
         "wlogo": "w-60",
         "nombre" : "Tanta",
@@ -432,7 +432,7 @@
         "preciodecimal": ".00"
     },
     {
-        "logo" : "assets/image/logo/hoseg.png",
+        "logo" : "assets/image/logo/negro/hoseg.png",
         "logoB" : "assets/image/logo/blanco/hoseg.png",
         "wlogo": "w-60",
         "nombre" : "hoseg",
@@ -452,7 +452,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/mangos-02.svg",
+        "logo" : "assets/image/logo/negro/Mangos.png",
         "logoB" : "assets/image/logo/blanco/Mangos.png",
         "wlogo": "w-55",
         "nombre" : "MANGOS",
@@ -471,7 +471,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/coolbox-11.svg",
+        "logo" : "assets/image/logo/negro/Coolbox.png",
         "logoB" : "assets/image/logo/blanco/Coolbox.png",
         "wlogo": "w-90",
         "nombre" : "Coolbox",
@@ -491,7 +491,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/coolbox-11.svg",
+        "logo" : "assets/image/logo/negro/Coolbox.png",
         "logoB" : "assets/image/logo/blanco/Coolbox.png",
         "wlogo": "w-90",
         "nombre" : "Coolbox",
@@ -511,7 +511,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/la-bonbonniere.png",
+        "logo" : "assets/image/logo/negro/Labombonniere.png",
         "logoB" : "assets/image/logo/blanco/Labombonniere.png",
         "wlogo": "w-100",
         "nombre" : "La Bonbonniere",
@@ -530,7 +530,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/JUAN-VALDEZ-26.svg",
+        "logo" : "assets/image/logo/negro/JuanValdez.png",
         "logoB" : "assets/image/logo/blanco/JuanValdez.png",
         "wlogo": "w-60",
         "nombre" : "JUAN VALDEZ CAFÉ",
@@ -549,7 +549,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/GMO-05.svg",
+        "logo" : "assets/image/logo/negro/GMO.png",
         "logoB" : "assets/image/logo/blanco/GMO.png",
         "wlogo": "w-100",
         "nombre" : "OPTICAS GMO",
@@ -569,7 +569,7 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/maestro-tzu.svg",
+        "logo" : "assets/image/logo/negro/MaestroTzu.png",
         "logoB" : "assets/image/logo/blanco/MaestroTzu.png",
         "wlogo": "w-100",
         "nombre" : "Maestro Tzu",
@@ -588,7 +588,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/lippi.png",
+        "logo" : "assets/image/logo/negro/Lippi.png",
         "logoB" : "assets/image/logo/blanco/Lippi.png",
         "wlogo": "w-80",
         "nombre" : "LIPPI",
@@ -607,7 +607,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/pure-alpaca-03.svg",
+        "logo" : "assets/image/logo/negro/Pure.png",
         "logoB" : "assets/image/logo/blanco/Pure.png",
         "wlogo": "w-80",
         "nombre" : "Pure Alpaca",
@@ -626,7 +626,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/SUNGLASS-HUT.svg",
+        "logo" : "assets/image/logo/negro/SunglassHut.png",
         "logoB" : "assets/image/logo/blanco/SunglassHut.png",
         "wlogo": "w-65",
         "nombre" : "Sunglass Hut",
@@ -645,7 +645,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/mbo.png",
+        "logo" : "assets/image/logo/negro/Mbo.png",
         "logoB" : "assets/image/logo/blanco/Mbo.png",
         "wlogo": "w-80",
         "nombre" : "M.bö",
@@ -664,7 +664,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/sra-buendia.png",
+        "logo" : "assets/image/logo/negro/sra-buendia.png",
         "logoB" : "assets/image/logo/blanco/sra-buendia.png",
         "wlogo": "w-110",
         "nombre" : "Tejas y chocotejas Sra. Buendia",
@@ -683,7 +683,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/columbia.png",
+        "logo" : "assets/image/logo/negro/Columbia.png",
         "logoB" : "assets/image/logo/blanco/Columbia.png",
         "wlogo": "w-95",
         "nombre" : "Columbia",
@@ -702,7 +702,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/patagonia.png",
+        "logo" : "assets/image/logo/negro/Patagonia.png",
         "logoB" : "assets/image/logo/blanco/Patagonia.png",
         "wlogo": "w-95",
         "nombre" : "Patagonia",
@@ -721,7 +721,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/RKF.png",
+        "logo" : "assets/image/logo/negro/RKF.png",
         "logoB" : "assets/image/logo/blanco/RKF.png",
         "wlogo": "w-80",
         "nombre" : "Rockford",
@@ -740,7 +740,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/CREPIER-27.svg",
+        "logo" : "assets/image/logo/negro/Crepier.png",
         "logoB" : "assets/image/logo/blanco/Crepier.png",
         "wlogo": "w-100",
         "nombre" : "Crepier",
@@ -759,7 +759,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/ibero-librerias.svg",
+        "logo" : "assets/image/logo/negro/IberoLibrerias.png",
         "logoB" : "assets/image/logo/blanco/IberoLibrerias.png",
         "wlogo": "w-80",
         "nombre" : "Ibero",
@@ -778,7 +778,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/guess-02.svg",
+        "logo" : "assets/image/logo/negro/Guess.png",
         "logoB" : "assets/image/logo/blanco/Guess.png",
         "wlogo": "w-50",
         "nombre" : "GUESS",
@@ -797,7 +797,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/lucio-cafe.png",
+        "logo" : "assets/image/logo/negro/LucioCafe.png",
         "logoB" : "assets/image/logo/blanco/LucioCafe.png",
         "wlogo": "w-50",
         "nombre" : "LUCIO CAFFE",
@@ -816,7 +816,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/lucio-cafe.png",
+        "logo" : "assets/image/logo/negro/LucioCafe.png",
         "logoB" : "assets/image/logo/blanco/LucioCafe.png",
         "wlogo": "w-50",
         "nombre" : "LUCIO CAFFE",
@@ -837,7 +837,7 @@
         "preciodecimal": ".90"
     },
     {
-        "logo" : "assets/image/logo/haagen dazs-07.svg",
+        "logo" : "assets/image/logo/negro/HaagenDazs.png",
         "logoB" : "assets/image/logo/blanco/HaagenDazs.png",
         "wlogo": "w-120",
         "nombre" : "HAAGEN DAZS",
@@ -856,7 +856,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/baby-infanti.png",
+        "logo" : "assets/image/logo/negro/BabyInfanti.png",
         "logoB" : "assets/image/logo/blanco/BabyInfanti.png",
         "wlogo": "w-120",
         "nombre" : "BABY INFANTI",
@@ -875,7 +875,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/nike.png",
+        "logo" : "assets/image/logo/negro/Nike.png",
         "logoB" : "assets/image/logo/blanco/Nike.png",
         "wlogo": "w-120",
         "nombre" : "Nike",
@@ -894,7 +894,7 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/under-armour.png",
+        "logo" : "assets/image/logo/negro/under-armour.png",
         "logoB" : "assets/image/logo/blanco/under-armour.png",
         "wlogo": "w-120",
         "nombre" : "UNDER ARMOUR",
