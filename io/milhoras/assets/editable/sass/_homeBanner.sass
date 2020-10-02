@@ -1,0 +1,34 @@
+#BannerMain
+    position: relative
+    .responseImg
+        object-fit: cover
+        height: 100% 
+    .owl-dots
+        position: absolute
+        width: 100%
+        bottom: 1.5rem
+        left: 0 
+        @media screen and (min-width: 992px)
+            bottom: 12rem
+        @media screen and (min-width: 1200px)
+            bottom: 12rem
+        button
+            border: 0
+            &:focus
+                border: 0
+                outline: none
+            &.owl-dot
+                span
+                    background-color: white
+                &.active
+                    span
+                        background-color: $green-slider !important
+    
+    .owl-carousel, 
+    .owl-stage-outer,
+    .owl-stage,
+    .owl-item,
+    .owl-item > div
+        height: 390px
+        
+    
