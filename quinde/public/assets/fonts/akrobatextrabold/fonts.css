@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'AkrobatExtraBold';
+    src: url('Akrobat-ExtraBold.eot');
+    src: url('Akrobat-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Akrobat-ExtraBold.woff2') format('woff2'),
+        url('Akrobat-ExtraBold.woff') format('woff'),
+        url('Akrobat-ExtraBold.svg#Akrobat-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,596 @@
+[
+  {
+    "codigo": 1,
+    "name": "La Pantera Negra",
+    "img": "movie_01.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 2,
+    "name": "60 Minutos Para Morir",
+    "img": "movie_02.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 3,
+    "name": "Un Viaje En El Tiempo",
+    "img": "movie_03.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 4,
+    "name": "La Pantera Negra",
+    "img": "movie_01.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 5,
+    "name": "60 Minutos Para Morir",
+    "img": "movie_02.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 6,
+    "name": "Un Viaje En El Tiempo",
+    "img": "movie_03.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 7,
+    "name": "La Pantera Negra",
+    "img": "movie_01.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 8,
+    "name": "60 Minutos Para Morir",
+    "img": "movie_02.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 9,
+    "name": "Un Viaje En El Tiempo",
+    "img": "movie_03.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 10,
+    "name": "La Pantera Negra",
+    "img": "movie_01.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 11,
+    "name": "60 Minutos Para Morir",
+    "img": "movie_02.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 12,
+    "name": "Un Viaje En El Tiempo",
+    "img": "movie_03.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 13,
+    "name": "La Pantera Negra",
+    "img": "movie_01.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 14,
+    "name": "60 Minutos Para Morir",
+    "img": "movie_02.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 15,
+    "name": "Un Viaje En El Tiempo",
+    "img": "movie_03.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 16,
+    "name": "La Pantera Negra",
+    "img": "movie_01.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 17,
+    "name": "60 Minutos Para Morir",
+    "img": "movie_02.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": 18,
+    "name": "Un Viaje En El Tiempo",
+    "img": "movie_03.jpg",
+    "img_portada": "background-billboard-internal.jpg",
+    "info": [
+      {
+        "directors": [
+          {
+            "name": "Baltasar Kormákur"
+          }
+        ],
+        "actors": [
+          {
+            "name": "John Malkovich"
+          },
+          {
+            "name": "Mark Wahlberg"
+          }
+        ],
+        "sinopsis": "Basada en una historia real, narra cómo la pareja formada por los jóvenes Tami Oldham (Shailene Woodley) y su novio Richard (Sam Claflin) se hace a la mar en su velero, pero en medio del océano se ven sorprendidos por una de las mayores tormentas jamás registradas. Tras el paso del huracán, Richard sale herido, y Tami tendrá que ponerse al mando para intentar sobrevivir a la deriva con el velero roto, sin comida y sin agua.",
+        "duration": "1hrs 40min",
+        "languaje": [
+          {
+            "name": "Sub"
+          },
+          {
+            "name": "Dob"
+          }
+        ]
+      }
+    ]
+  }
+]

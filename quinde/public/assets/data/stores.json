@@ -1,0 +1,653 @@
+[
+  {
+    "name": "AMERICAN BRAN",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 22,
+    "location": 1
+  },
+  {
+    "name": "ARIS STORE",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 21,
+    "location": 1
+  },
+  {
+    "name": "AUTOPLAN",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 19,
+    "location": 2
+  },
+  {
+    "name": "BABY INFANTI ST",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 16,
+    "location": 3
+  },
+  {
+    "name": "BABY MODAS",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 16,
+    "location": 3
+  },
+  {
+    "name": "BANCO FALABELLA",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 3,
+    "location": 3
+  },
+  {
+    "name": "BATA",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 9,
+    "location": 3
+  },
+  {
+    "name": "BBVA CONTINENTAL",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 21,
+    "location": 1
+  },
+  {
+    "name": "BCP",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 3,
+    "location": 2
+  },
+  {
+    "name": "BITEL",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 17,
+    "location": 2
+  },
+  {
+    "name": "BUBBLE GUMMERS",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 21,
+    "location": 3
+  },
+  {
+    "name": "CAJA PIURA",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 2,
+    "location": 1
+  },
+  {
+    "name": "CALIMOD STORE",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 13,
+    "location": 1
+  },
+  {
+    "name": "CASA DE CAMBIO",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 22,
+    "location": 2
+  },
+  {
+    "name": "LE PETIT CASCANUEZ",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 7,
+    "location": 1
+  },
+  {
+    "name": "CHURRO",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 21,
+    "location": 3
+  },
+  {
+    "name": "CINERAMA",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 18,
+    "location": 1
+  },
+  {
+    "name": "CLARO CAC CAJAMARCA",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 14,
+    "location": 3
+  },
+  {
+    "name": "CLARO DISTRIBUIDOR",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 4,
+    "location": 1
+  },
+  {
+    "name": "CLARO DISTRIBUIDOR MÓDULO",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 12,
+    "location": 3
+  },
+  {
+    "name": "CONSTRUCTORA GASA",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 7,
+    "location": 3
+  },
+  {
+    "name": "COOLBOX",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 6,
+    "location": 3
+  },
+  {
+    "name": "D LAURA",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 10,
+    "location": 3
+  },
+  {
+    "name": "DICOUS",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 5,
+    "location": 1
+  },
+  {
+    "name": "DIRECTV",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 20,
+    "location": 1
+  },
+  {
+    "name": "DONOFRIO CLUB",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 17,
+    "location": 3
+  },
+  {
+    "name": "DOÑA VICKY",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 7,
+    "location": 1
+  },
+  {
+    "name": "DULCES DETALLE",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 12,
+    "location": 1
+  },
+  {
+    "name": "ÉL",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 4,
+    "location": 1
+  },
+  {
+    "name": "EMOLIENTES SANTI",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 5,
+    "location": 1
+  },
+  {
+    "name": "ENTEL",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 10,
+    "location": 1
+  },
+  {
+    "name": "FACTORY BRANDS",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 1,
+    "location": 1
+  },
+  {
+    "name": "CAJAMARCA",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 9,
+    "location": 2
+  },
+  {
+    "name": "FACUNDO SANDUCHERÍA",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 12,
+    "location": 2
+  },
+  {
+    "name": "FAMATELL",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 3,
+    "location": 1
+  },
+  {
+    "name": "FITNESS DE IMPACTO",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 17,
+    "location": 2
+  },
+  {
+    "name": "FLORIDEAS",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 21,
+    "location": 1
+  },
+  {
+    "name": "FRUTIBLENDS",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 14,
+    "location": 3
+  },
+  {
+    "name": "GLACE & TOPPINGS",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 22,
+    "location": 2
+  },
+  {
+    "name": "GZUCK",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 7,
+    "location": 1
+  },
+  {
+    "name": "H&M",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 11,
+    "location": 3
+  },
+  {
+    "name": "HAPPY LAND",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 21,
+    "location": 2
+  },
+  {
+    "name": "HELADERIA HOLANDA",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 22,
+    "location": 3
+  },
+  {
+    "name": "HELADO MÁGICO",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 16,
+    "location": 2
+  },
+  {
+    "name": "INKAFARMA",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 19,
+    "location": 2
+  },
+  {
+    "name": "INTERBANK",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 11,
+    "location": 2
+  },
+  {
+    "name": "INTRALOT",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 22,
+    "location": 1
+  },
+  {
+    "name": "KFC",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 8,
+    "location": 2
+  },
+  {
+    "name": "KHUS",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 6,
+    "location": 1
+  },
+  {
+    "name": "LA CURACAO",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 20,
+    "location": 1
+  },
+  {
+    "name": "LA POSITIVA",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 7,
+    "location": 2
+  },
+  {
+    "name": "LA ZONA",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 1,
+    "location": 2
+  },
+  {
+    "name": "LATAM PERU",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 16,
+    "location": 3
+  },
+  {
+    "name": "LATORRE BEBES Y NIÑOS",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 1,
+    "location": 1
+  },
+  {
+    "name": "METRO",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 12,
+    "location": 3
+  },
+  {
+    "name": "MI FARMA",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 22,
+    "location": 2
+  },
+  {
+    "name": "MISKY MANÍ",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 15,
+    "location": 2
+  },
+  {
+    "name": "MOGGUI",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 3,
+    "location": 2
+  },
+  {
+    "name": "MOVISTAR",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 22,
+    "location": 2
+  },
+  {
+    "name": "NOVEDADES Y ESTILOS",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 13,
+    "location": 1
+  },
+  {
+    "name": "OPCIÓN TOYOTA",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 9,
+    "location": 2
+  },
+  {
+    "name": "ÓPTICAS COLOR VISION",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 18,
+    "location": 2
+  },
+  {
+    "name": "GMO",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 5,
+    "location": 1
+  },
+  {
+    "name": "PANDERO",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 13,
+    "location": 1
+  },
+  {
+    "name": "PARIS",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 14,
+    "location": 3
+  },
+  {
+    "name": "PASSARELA",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 14,
+    "location": 1
+  },
+  {
+    "name": "PERUANITA",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 16,
+    "location": 2
+  },
+  {
+    "name": "PIONIER",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 6,
+    "location": 3
+  },
+  {
+    "name": "PIZZA HUT",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 6,
+    "location": 2
+  },
+  {
+    "name": "PORTA",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 9,
+    "location": 3
+  },
+  {
+    "name": "PRATA",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 20,
+    "location": 1
+  },
+  {
+    "name": "PUNTO DE LA SUERTE",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 8,
+    "location": 1
+  },
+  {
+    "name": "RENZO COSTA",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 19,
+    "location": 1
+  },
+  {
+    "name": "SABORES PERUANOS",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 13,
+    "location": 1
+  },
+  {
+    "name": "SAFARI ADVENTURES",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 18,
+    "location": 2
+  },
+  {
+    "name": "SAGA FALABELL",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 16,
+    "location": 2
+  },
+  {
+    "name": "SANDWICHS DE L",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 11,
+    "location": 2
+  },
+  {
+    "name": "SAT CAJAMARCA",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 13,
+    "location": 2
+  },
+  {
+    "name": "SCOTIABANK PERU S.A.A.",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 2,
+    "location": 1
+  },
+  {
+    "name": "SEDACAJ SA",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 14,
+    "location": 2
+  },
+  {
+    "name": "SUNGLASS",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 19,
+    "location": 1
+  },
+  {
+    "name": "SUNTIME STORE",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 10,
+    "location": 1
+  },
+  {
+    "name": "SWEET COMPANY",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 20,
+    "location": 3
+  },
+  {
+    "name": "TAI LOY",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 18,
+    "location": 3
+  },
+  {
+    "name": "THE CULT STORE",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 9,
+    "location": 3
+  },
+  {
+    "name": "VALENTINO´S JEWELRY",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 13,
+    "location": 2
+  },
+  {
+    "name": "VANITY´S",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 3,
+    "location": 3
+  },
+  {
+    "name": "VIALE",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 19,
+    "location": 3
+  },
+  {
+    "name": "VISION CENTER",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 13,
+    "location": 3
+  },
+  {
+    "name": "WATCH BOUTIQUE",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 9,
+    "location": 3
+  },
+  {
+    "name": "WESTER UNION",
+    "logo": "la-positiva-seguros.png",
+    "url": "stores-internal.html",
+    "category": 17,
+    "location": 3
+  },
+  {
+    "name": "WO SMARTPHONE",
+    "logo": "aris-store.png",
+    "url": "stores-internal.html",
+    "category": 21,
+    "location": 1
+  },
+  {
+    "name": "ZONA CEL",
+    "logo": "autoplan.png",
+    "url": "stores-internal.html",
+    "category": 7,
+    "location": 1
+  }
+]

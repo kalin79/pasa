@@ -1,0 +1,106 @@
+[
+  {
+    "page": 1,
+    "name_page": "HOME",
+    "title_page": "INICIO",
+    "main_title_banner": "Bienvenidos",
+    "banners": [
+      {
+        "title_banner": "Bienvenidos",
+        "image": "banner-home.jpg",
+        "image_mobile": "background-home-responsive.jpg"
+      },
+      {
+        "title_banner": "Bienvenidos",
+        "image": "banner-home.jpg",
+        "image_mobile": "background-home-responsive.jpg"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "page": 2,
+    "name_page": "ABOUT",
+    "title_page": "NOSOTROS",
+    "main_title_banner": "Nosotros",
+    "banners": [
+      {
+        "title_banner": "Banner 1",
+        "image": "banner-about.jpg"
+      },
+      {
+        "title_banner": "Banner 2",
+        "image": "banner-about.jpg"
+      }
+    ],
+    "description": "Pertenecemos al retailer Parque Arauco, con 12 años de funcionamiento en Cajamarca. Somos el primer centro comercial de la ciudad, lo que nos convierte en un ícono referencial de entretenimiento, liderando el mercado en el rubro. Nuestra cartera de locatarios es extensa y variada, lo que valoriza la oferta comercial. En esta temporada hemos experimentado muchos cambios, adaptándonos a su entorno y de forma específica a nuestros clientes con el fin de mejorar su experiencia."
+  },
+  {
+    "page": 3,
+    "name_page": "STORES",
+    "title_page": "TIENDAS",
+    "main_title_banner": "Tiendas",
+    "banners": [
+      {
+        "title_banner": "Banner 1",
+        "image": "banner-stores.jpg"
+      },
+      {
+        "title_banner": "Banner 2",
+        "image": "banner-stores.jpg"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "page": 4,
+    "name_page": "PROMOTIONS",
+    "title_page": "PROMOCIONES",
+    "main_title_banner": "Promociones",
+    "banners": [
+      {
+        "title_banner": "Banner 1",
+        "image": "banner-promotions.jpg"
+      },
+      {
+        "title_banner": "Banner 2",
+        "image": "banner-promotions.jpg"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "page": 5,
+    "name_page": "EVENTS",
+    "title_page": "EVENTOS",
+    "main_title_banner": "Eventos",
+    "banners": [
+      {
+        "title_banner": "Banner 1",
+        "image": "banner-events.png"
+      },
+      {
+        "title_banner": "Banner 2",
+        "image": "banner-events.png"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "page": 6,
+    "name_page": "BILLBOARD",
+    "title_page": "CARTELERA",
+    "main_title_banner": "Cartelera",
+    "banners": [
+      {
+        "title_banner": "Banner 1",
+        "image": "billboard-banner.jpg"
+      },
+      {
+        "title_banner": "Banner 2",
+        "image": "billboard-banner.jpg"
+      }
+    ],
+    "description": ""
+  }
+]

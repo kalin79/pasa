@@ -1,0 +1,1294 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
+#Footer .duda .box-redes a,
+#CentroComercialHome .inner-list .box-items-list p,
+#CentroComercialHome .inner-list .box-items-list .number p,
+#RestaurantesHome .card-body .card-row .card-text,
+#PrevenirHome .box-description p,
+#BannerHome .box-info p,
+#BannerHome .box-description p,
+#SeguridadHome .box-info p,
+#Footer .footer .inner-container p,
+.nav-movil .box-option-menu a,
+nav a,
+#BannerHome .box-info p span,
+#SeguridadHome .box-info p span {
+  font-size: 19px;
+  color: white;
+  font-family: 'prelomedium';
+  line-height: 1.5em;
+}
+
+/* line 16, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/libs/_variables.sass */
+.nav-movil .box-option-menu a, nav a {
+  font-family: 'prelolight';
+}
+
+/* line 1, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil {
+  background: #ffd504;
+  padding: 1rem 0;
+  position: fixed;
+  width: 100%;
+  z-index: 200;
+  top: 0;
+  left: 0;
+  box-shadow: 0px 7px 5px 0px rgba(0, 0, 0, 0.5);
+  display: block;
+  overflow: hidden;
+}
+
+@media screen and (min-width: 992px) {
+  /* line 1, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+  .nav-movil {
+    display: none;
+  }
+}
+
+/* line 14, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .box-option-menu {
+  position: fixed;
+  top: 4.25rem;
+  right: -16rem;
+  text-align: right;
+  background: rgba(255, 255, 255, 0.75);
+  padding: 1rem;
+  transition: .5s ease right;
+}
+
+/* line 22, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .box-option-menu.active {
+  right: 0;
+}
+
+/* line 24, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .box-option-menu a {
+  color: #0033a1;
+  text-align: right;
+  text-decoration: none;
+}
+
+/* line 29, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .box-option-menu a:hover, .nav-movil .box-option-menu a:focus, .nav-movil .box-option-menu a.active {
+  color: #ffd504;
+  text-decoration: none;
+}
+
+/* line 34, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .logonav {
+  width: 80px;
+}
+
+/* line 36, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .logonav img {
+  max-width: 100%;
+}
+
+/* line 38, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .btn-menu-movil {
+  color: #0033a1;
+  text-decoration: none;
+}
+
+/* line 42, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .btn-menu-movil.active .icofont-navigation-menu {
+  display: none;
+}
+
+@media screen and (min-width: 992px) {
+  /* line 42, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+  .nav-movil .btn-menu-movil.active .icofont-navigation-menu {
+    display: block;
+  }
+}
+
+/* line 47, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .btn-menu-movil.active .icofont-close-circled {
+  display: block;
+}
+
+@media screen and (min-width: 992px) {
+  /* line 47, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+  .nav-movil .btn-menu-movil.active .icofont-close-circled {
+    display: none;
+  }
+}
+
+/* line 51, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .btn-menu-movil .icofont-navigation-menu {
+  display: block;
+}
+
+@media screen and (min-width: 992px) {
+  /* line 51, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+  .nav-movil .btn-menu-movil .icofont-navigation-menu {
+    display: none;
+  }
+}
+
+/* line 56, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .btn-menu-movil .icofont-close-circled {
+  display: none;
+}
+
+@media screen and (min-width: 992px) {
+  /* line 56, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+  .nav-movil .btn-menu-movil .icofont-close-circled {
+    display: block;
+  }
+}
+
+
+/* line 1, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil {
+  background: #ffd504;
+  padding: 1rem 0;
+  position: fixed;
+  width: 100%;
+  z-index: 200;
+  top: 0;
+  left: 0;
+  box-shadow: 0px 7px 5px 0px rgba(0, 0, 0, 0.5);
+  display: block;
+  overflow: hidden;
+}
+
+@media screen and (min-width: 992px) {
+  /* line 1, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+  .nav-movil {
+    display: none;
+  }
+}
+
+/* line 14, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .box-option-menu {
+  position: fixed;
+  top: 4.25rem;
+  right: -16rem;
+  text-align: right;
+  background: rgba(255, 255, 255, 0.75);
+  padding: 1rem;
+  transition: .5s ease right;
+}
+
+/* line 22, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .box-option-menu.active {
+  right: 0;
+}
+
+/* line 24, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .box-option-menu a {
+  color: #0033a1;
+  text-align: right;
+  text-decoration: none;
+}
+
+/* line 29, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .box-option-menu a:hover, .nav-movil .box-option-menu a:focus, .nav-movil .box-option-menu a.active {
+  color: #ffd504;
+  text-decoration: none;
+}
+
+/* line 34, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .logonav {
+  width: 80px;
+}
+
+/* line 36, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .logonav img {
+  max-width: 100%;
+}
+
+/* line 38, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .btn-menu-movil {
+  color: #0033a1;
+  text-decoration: none;
+}
+
+/* line 42, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .btn-menu-movil.active .icofont-navigation-menu {
+  display: none;
+}
+
+@media screen and (min-width: 992px) {
+  /* line 42, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+  .nav-movil .btn-menu-movil.active .icofont-navigation-menu {
+    display: block;
+  }
+}
+
+/* line 47, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .btn-menu-movil.active .icofont-close-circled {
+  display: block;
+}
+
+@media screen and (min-width: 992px) {
+  /* line 47, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+  .nav-movil .btn-menu-movil.active .icofont-close-circled {
+    display: none;
+  }
+}
+
+/* line 51, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .btn-menu-movil .icofont-navigation-menu {
+  display: block;
+}
+
+@media screen and (min-width: 992px) {
+  /* line 51, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+  .nav-movil .btn-menu-movil .icofont-navigation-menu {
+    display: none;
+  }
+}
+
+/* line 56, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.nav-movil .btn-menu-movil .icofont-close-circled {
+  display: none;
+}
+
+@media screen and (min-width: 992px) {
+  /* line 56, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+  .nav-movil .btn-menu-movil .icofont-close-circled {
+    display: block;
+  }
+}
+
+/* line 60, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+.spacer {
+  min-height: 1px;
+  width: 100%;
+}
+
+/* line 63, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+nav {
+  background: #329d38;
+  padding-bottom: 2rem;
+  display: none;
+}
+
+@media screen and (min-width: 992px) {
+  /* line 63, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+  nav {
+    display: block;
+  }
+}
+
+/* line 69, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+nav .logonav {
+  width: 100px;
+  padding-right: 1rem;
+  display: none;
+}
+
+/* line 73, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+nav .logonav img {
+  max-width: 100%;
+}
+
+/* line 75, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+nav .box-nav-fluid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+/* line 80, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+nav.active {
+  position: fixed;
+  width: 100%;
+  padding: .5rem 0rem;
+  z-index: 100;
+  top: 0;
+  box-shadow: 0px 7px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+/* line 87, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+nav.active a {
+  font-size: 14px;
+}
+
+/* line 89, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+nav.active .box-nav-fluid {
+  justify-content: space-between;
+}
+
+/* line 91, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+nav.active .logonav {
+  display: block;
+}
+
+/* line 93, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+nav a {
+  color: white;
+  text-align: center;
+  line-height: 1.25em;
+  letter-spacing: .05em;
+  transition: .5s ease color;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+/* line 102, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+nav a:hover, nav a.active {
+  color: white;
+  text-decoration: none;
+}
+
+/* line 107, /Users/carlosespinoza/proyectos/2020/parqueArauco/lambramani/juntos/assets/editable/sass/_nav.sass */
+nav .line {
+  height: 35px;
+  width: 1px;
+  background: rgba(255, 255, 255, 0.3);
+  margin: 0 2rem;
+}
+
+
+#BannerHome .box-info p span, #SeguridadHome .box-info p span {
+  font-family: 'prelobold';
+}
+
+#CentroComercialHome .inner-list .box-items-list p, #CentroComercialHome .inner-list .box-items-list .number p, #RestaurantesHome .card-body .card-row .card-text, #PrevenirHome .box-description p, #BannerHome .box-info p, #BannerHome .box-description p, #SeguridadHome .box-info p, #Footer .footer .inner-container p {
+  font-family: 'prelobook';
+}
+
+#CentroComercialHome .inner-list .box-list-subtitle h3, #CentroComercialHome .inner-list .box-list-title h2, #CentroComercialHome .box-subtitle h3, #CentroComercialHome .box-title h2, #RestaurantesHome .card-body .card-row .card-title, #RestaurantesHome .box-subtitle h3, #RestaurantesHome .box-title h2, #PrevenirHome .box-card-title h2, #PrevenirHome .box-description p strong, #PrevenirHome .box-inner-title .box-title h2, #BannerHome .box-title h1, #SeguridadHome .box-detail p, #SeguridadHome .box-detail p span, #SeguridadHome .box-center .box-subtitle h3, #SeguridadHome .box-title h2, #Footer .duda .box-title h2, #Footer .duda .box-subtitle h3 {
+  font-size: 20px;
+  color: white;
+  font-family: 'prelosemibold';
+  line-height: 1.5em;
+}
+
+#Header {
+  padding: 3rem 0;
+}
+
+#Header .btn {
+  text-decoration: none;
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 1rem;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#Header .btn.btn-link {
+  color: white;
+}
+
+#Header .flecha {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+#Header .flecha img {
+  width: 14px;
+  height: 22px;
+}
+
+#Header .logo img {
+  width: 94px;
+}
+
+@media screen and (min-width: 576px) {
+  #Header .logo img {
+    width: 94px;
+  }
+}
+
+.fondoAzul {
+  background: #fbd700;
+}
+
+.fondoAmarrillo {
+  background: #329d38;
+}
+
+#CentroComercialHome .owl-dots {
+  margin-top: 1.75rem;
+}
+
+#CentroComercialHome .owl-theme .owl-dots .owl-dot:focus {
+  outline: none;
+}
+
+#CentroComercialHome .owl-theme .owl-dots .owl-dot span {
+  background: #fbd700;
+  margin: 5px 4px;
+}
+
+#CentroComercialHome .owl-theme .owl-dots .owl-dot.active span {
+  background: #018137;
+}
+
+#CentroComercialHome .separate {
+  width: 100%;
+  height: 3rem;
+}
+
+#CentroComercialHome .inner-list {
+  padding-right: 1rem;
+  padding-top: 2rem;
+}
+
+@media screen and (min-width: 960px) {
+  #CentroComercialHome .inner-list {
+    padding-top: 0rem;
+  }
+}
+
+#CentroComercialHome .inner-list.amarrillo .box-items-list .number p {
+  background: #ffd504;
+}
+
+#CentroComercialHome .inner-list.amarrillo .box-list-title {
+  background: #ffd504;
+}
+
+#CentroComercialHome .inner-list .d-flex {
+  margin-bottom: .5rem;
+}
+
+#CentroComercialHome .inner-list .box-items-list {
+  padding-top: .5rem;
+}
+
+#CentroComercialHome .inner-list .box-items-list p {
+  font-size: 15px;
+  letter-spacing: .02em;
+  word-spacing: .15em;
+  line-height: 1.65em;
+  color: #018137;
+  margin: 0;
+  text-align: left;
+}
+
+#CentroComercialHome .inner-list .box-items-list .number {
+  padding-right: .5rem;
+}
+
+#CentroComercialHome .inner-list .box-items-list .number p {
+  width: 20px;
+  height: 20px;
+  background: #018137;
+  border-radius: 50%;
+  box-sizing: border-box;
+  font-size: 15px;
+  letter-spacing: .02em;
+  word-spacing: .05em;
+  line-height: 1.5em;
+  color: white;
+  margin: 0;
+  text-align: center;
+}
+
+#CentroComercialHome .inner-list .box-list-subtitle h3 {
+  margin: 0;
+  font-size: 19px;
+  letter-spacing: .02em;
+  word-spacing: .05em;
+  line-height: 1.5em;
+  color: #018137;
+}
+
+#CentroComercialHome .inner-list .items-block {
+  padding: 2rem 0 0;
+}
+
+#CentroComercialHome .inner-list .box-list-title {
+  background: #02c755;
+  display: inline-block;
+  padding: 0 .75rem;
+}
+
+#CentroComercialHome .inner-list .box-list-title h2 {
+  margin: 0;
+  font-size: 19px;
+  letter-spacing: .2em;
+  word-spacing: .05em;
+  line-height: 1.5em;
+}
+
+#CentroComercialHome .inner-container {
+  padding: 4.5rem 0 2rem;
+}
+
+#CentroComercialHome .box-mapa {
+  height: auto;
+  padding-bottom: 1rem;
+}
+
+@media screen and (min-width: 576px) {
+  #CentroComercialHome .box-mapa {
+    padding-bottom: 0rem;
+    height: auto;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  #CentroComercialHome .box-mapa {
+    height: auto;
+  }
+}
+
+#CentroComercialHome .box-mapa img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#CentroComercialHome .box-subtitle h3 {
+  font-size: 19px;
+  color: #018137;
+  letter-spacing: .08em;
+  word-spacing: .05em;
+}
+
+#CentroComercialHome .box-title .separate-line {
+  margin: 0 1rem;
+}
+
+#CentroComercialHome .box-title .separate-line .line {
+  width: 20px;
+  height: 5px;
+  background: #fbd700;
+}
+
+#CentroComercialHome .box-title h2 {
+  font-size: 30px;
+  color: #018137;
+  letter-spacing: .08em;
+  word-spacing: .05em;
+  margin: 0;
+}
+/* #RestaurantesHome{
+  display: none
+} */
+#RestaurantesHome.bg-gris {
+  background: #f7f7f7;
+}
+
+#RestaurantesHome .card-body {
+  border: 0px solid black;
+  padding: 2rem 0 0;
+}
+
+#RestaurantesHome .card-body .card-row {
+  margin-bottom: 1rem;
+}
+
+#RestaurantesHome .card-body .card-row:last-child {
+  margin-bottom: 0rem;
+}
+
+#RestaurantesHome .card-body .card-row .card-title {
+  font-size: 15px;
+  color: #018137;
+  letter-spacing: .08em;
+  margin: 0;
+}
+
+#RestaurantesHome .card-body .card-row .card-text {
+  font-size: 15px;
+  color: #018137;
+  letter-spacing: .08em;
+  margin: 0;
+}
+
+#RestaurantesHome .card-img {
+  border: 0px solid red;
+  background: white;
+  padding: 3rem 0;
+  margin: auto;
+  text-align: center;
+}
+
+@media screen and (min-width: 992px) {
+  #RestaurantesHome .card-img {
+    height: 237px;
+  }
+}
+
+
+#RestaurantesHome .card {
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  padding-top: 2rem;
+}
+
+@media screen and (min-width: 576px) {
+  #RestaurantesHome .card {
+    padding-top: 4rem;
+  }
+}
+
+#RestaurantesHome .card img {
+  width: 177px;
+  MARGIN: auto
+}
+
+#RestaurantesHome .box-subtitle {
+  text-align: center;
+  padding-top: 1.5rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+
+@media screen and (min-width: 576px) {
+  #RestaurantesHome .box-subtitle {
+    padding-left: 9rem;
+    padding-right: 9rem;
+  }
+}
+
+#RestaurantesHome .box-subtitle h3 {
+  font-size: 19px;
+  color: #018137;
+  letter-spacing: .08em;
+  margin: 0;
+}
+
+#RestaurantesHome .box-title {
+  text-align: center;
+}
+
+#RestaurantesHome .box-title .separate-line {
+  margin: 0 1rem;
+}
+
+#RestaurantesHome .box-title .separate-line .line {
+  width: 20px;
+  height: 5px;
+  background: #fbd700;
+}
+
+#RestaurantesHome .box-title h2 {
+  font-size: 30px;
+  color: #018137;
+  letter-spacing: .08em;
+  margin: 0;
+}
+
+#RestaurantesHome .inner-container {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}
+
+#PrevenirHome .box-card-title {
+  padding-bottom: 2rem;
+}
+
+#PrevenirHome .box-card-title h2 {
+  font-size: 30px;
+  color: #018137;
+  letter-spacing: .1em;
+  word-spacing: .085em;
+}
+
+#PrevenirHome .img-pre {
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+}
+
+#PrevenirHome .inner-container {
+  padding: 6rem 0 2rem;
+}
+
+#PrevenirHome .box-description {
+  padding-top: 2rem;
+}
+
+#PrevenirHome .box-description p {
+  font-size: 19px;
+  letter-spacing: .085em;
+  word-spacing: .08em;
+  text-align: justify;
+  color: #018137;
+}
+
+#PrevenirHome .box-description p strong {
+  color: #018137;
+}
+
+#PrevenirHome .box-inner-title {
+  padding-top: 1rem;
+}
+
+#PrevenirHome .box-inner-title .box-title {
+  padding-top: 3rem;
+}
+
+#PrevenirHome .box-inner-title .box-title h2 {
+  font-size: 30px;
+  line-height: 1.4em;
+  letter-spacing: .085em;
+  color: white;
+}
+
+#PrevenirHome .box-inner-title .box-cuadrado {
+  width: 40px;
+  height: 10px;
+  background: #fff;
+}
+
+#PrevenirHome .owl-dots {
+  margin-top: 1.75rem;
+}
+
+#PrevenirHome .owl-theme .owl-dots .owl-dot:focus {
+  outline: none;
+}
+
+#PrevenirHome .owl-theme .owl-dots .owl-dot span {
+  background: white;
+  margin: 5px 4px;
+}
+
+#PrevenirHome .owl-theme .owl-dots .owl-dot.active span {
+  background: #018137;
+}
+
+#BannerHome .box-info {
+  padding: 0 0.5rem 2rem;
+}
+
+@media screen and (min-width: 576px) {
+  #BannerHome .box-info {
+    padding: 0 1.5rem 2rem;
+  }
+}
+
+#BannerHome .box-info p {
+  text-align: center;
+  word-spacing: .5em;
+  letter-spacing: .05em;
+  font-size: 14px;
+  color: white;
+}
+
+@media screen and (min-width: 576px) {
+  #BannerHome .box-info p {
+    font-size: 19px;
+  }
+}
+
+#BannerHome .box-info p span {
+  font-size: 14px;
+  color: white;
+}
+
+@media screen and (min-width: 576px) {
+  #BannerHome .box-info p span {
+    font-size: 19px;
+  }
+}
+
+#BannerHome .box-barra {
+  padding: 3rem 0;
+}
+
+#BannerHome .box-barra .barra {
+  width: 30px;
+  height: 10px;
+  background: white;
+  margin: auto;
+}
+
+#BannerHome .box-bg-slider {
+  width: 50%;
+  display: none;
+}
+
+@media screen and (min-width: 576px) {
+  #BannerHome .box-bg-slider {
+    display: block;
+  }
+}
+
+#BannerHome .box-bg-slider img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#BannerHome .box-bg-blue {
+  background: #fbd700;
+  padding: 2.5rem 2rem 2rem;
+  width: auto;
+}
+
+@media screen and (min-width: 576px) {
+  #BannerHome .box-bg-blue {
+    padding: 4.5rem 4rem 2rem;
+    width: 50%;
+  }
+}
+
+#BannerHome .box-title {
+  padding-bottom: 0rem;
+}
+
+#BannerHome .box-title h1 {
+  font-size: 30px;
+  line-height: 1.25em;
+  word-spacing: .05em;
+  letter-spacing: .08em;
+}
+
+@media screen and (min-width: 576px) {
+  #BannerHome .box-title h1 {
+    font-size: 32px;
+    line-height: 1em;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  #BannerHome .box-title h1 {
+    font-size: 47px;
+  }
+}
+
+#BannerHome .box-description p {
+  text-align: justify;
+  word-spacing: .4em;
+  color: #018137;
+}
+
+#SeguridadHome .box-info {
+  padding: 0 1.5rem 2rem;
+}
+
+#SeguridadHome .box-info p {
+  text-align: center;
+  word-spacing: .5em;
+  letter-spacing: .05em;
+  font-size: 19px;
+  color: white;
+}
+
+#SeguridadHome .box-info p span {
+  color: white;
+}
+
+#SeguridadHome .box-separate {
+  width: 100%;
+  height: 6rem;
+}
+
+#SeguridadHome .box-separate.tp2 {
+  height: 1.5rem;
+}
+
+#SeguridadHome .box-separate.tp3 {
+  height: 3.5rem;
+}
+
+#SeguridadHome .box-list-protocolos img {
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (min-width: 992px) {
+  #SeguridadHome .box-list-protocolos img {
+    width: auto;
+    height: auto;
+  }
+}
+
+#SeguridadHome .box-list-protocolos .row {
+  margin-bottom: 2rem;
+}
+
+#SeguridadHome .box-list-protocolos .row .col-12 {
+  margin-bottom: 2rem;
+}
+
+#SeguridadHome .box-list-protocolos .row .col-12:last-child {
+  margin-bottom: 0;
+}
+
+#SeguridadHome .box-list-protocolos .row:last-child {
+  margin-bottom: 0;
+}
+
+#SeguridadHome .bloque2 {
+  padding-left: 1rem;
+}
+
+#SeguridadHome .box-detail {
+  background: white;
+  padding: 1.5rem 1rem;
+  border-radius: 0px 19px 0px 0px;
+  width: 259px;
+  height: 86px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 720px) {
+  #SeguridadHome .box-detail {
+    width: 318px;
+  }
+}
+
+#SeguridadHome .box-detail p {
+  margin: 0;
+  font-size: 15px;
+  color: #018137;
+  align-items: center;
+}
+
+#SeguridadHome .box-detail p span {
+  color: #018137;
+  font-size: 15px;
+}
+
+#SeguridadHome .box-center {
+  margin: auto;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+
+#SeguridadHome .box-center .box-subtitle {
+  display: inline-block;
+  background: #fbd700;
+  padding: 1rem 2rem .95rem;
+}
+
+#SeguridadHome .box-center .box-subtitle h3 {
+  font-size: 19px;
+  line-height: 1em;
+  color: #018137;
+  margin: 0;
+}
+
+#SeguridadHome .box-title {
+  padding-bottom: 1rem;
+}
+
+#SeguridadHome .box-title h2 {
+  font-size: 30px;
+  text-align: center;
+  color: white;
+}
+
+#Footer .box-cuadrado {
+  width: 40px;
+  height: 10px;
+  background: white;
+  margin: auto;
+}
+
+#Footer .footer .inner-container {
+  padding: 3rem 0 2rem;
+}
+
+#Footer .footer .inner-container p {
+  color: #018137;
+  font-size: 14px;
+  margin: 0;
+  letter-spacing: 0.05em;
+  word-spacing: .25em;
+}
+
+#Footer .duda {
+  background: #018137;
+}
+
+#Footer .duda .box-inner-social {
+  padding-top: 2.5rem;
+}
+
+#Footer .duda .box-redes {
+  padding-right: 0rem;
+  padding-bottom: 2rem;
+}
+
+#Footer .duda .box-redes:last-child {
+  padding-bottom: 0rem;
+}
+
+@media screen and (min-width: 576px) {
+  #Footer .duda .box-redes {
+    padding-right: 2.5rem;
+    padding-bottom: 2rem;
+  }
+}
+
+#Footer .duda .box-redes:last-child {
+  padding-right: 0rem;
+}
+
+#Footer .duda .box-redes a {
+  margin-left: 1rem;
+  color: #ffd504;
+  font-size: 19px;
+  letter-spacing: 0.05em;
+  word-spacing: .25em;
+  text-decoration: none;
+}
+
+#Footer .duda .box-title {
+  padding-top: 2.5rem;
+}
+
+#Footer .duda .box-title h2 {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  letter-spacing: 0.05em;
+  word-spacing: .25em;
+}
+
+#Footer .duda .box-subtitle {
+  padding-top: .5rem;
+}
+
+#Footer .duda .box-subtitle h3 {
+  font-size: 19px;
+  color: white;
+  text-align: center;
+  letter-spacing: 0.05em;
+  word-spacing: .25em;
+}
+
+#Footer .duda .inner-container {
+  padding: 3rem 0 4rem;
+}
+
+
+#TiendasHome .card-body .card-row .card-text{
+  font-size: 19px;
+  color: white;
+  font-family: 'prelomedium';
+  line-height: 1.5em;
+}
+
+
+#TiendasHome .card-body .card-row .card-text {
+  font-family: 'prelobook';
+}
+
+#TiendasHome .card-body .card-row .card-title, #TiendasHome .box-subtitle h3, #TiendasHome .box-title h2 {
+  font-size: 20px;
+  color: white;
+  font-family: 'prelosemibold';
+  line-height: 1.5em;
+}
+/* line 2, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .owl-dots {
+  margin-top: 1.75rem;
+}
+
+/* line 7, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .owl-theme .owl-dots .owl-dot:focus {
+  outline: none;
+}
+
+/* line 9, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .owl-theme .owl-dots .owl-dot span {
+  background: #030000;
+  margin: 5px 4px;
+}
+
+/* line 13, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .owl-theme .owl-dots .owl-dot.active span {
+  background: #fcd916;
+}
+
+/* line 15, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .panel-navegation {
+  padding-top: 1rem;
+}
+
+/* line 18, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .panel-navegation button.active, #TiendasHome .panel-navegation button:hover {
+  background: #FFD900;
+  color: white;
+}
+
+/* line 22, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .panel-navegation button:first-child {
+  margin-right: 1rem;
+}
+
+
+
+
+/* line 15, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#RestaurantesHome .panel-navegation2 {
+  padding-top: 1rem;
+}
+
+/* line 18, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#RestaurantesHome .panel-navegation2 button.active, #TiendasHome .panel-navegation2 button:hover {
+  background: #FFD900;
+  color: white;
+}
+
+/* line 22, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#RestaurantesHome .panel-navegation2 button:first-child {
+  margin-right: 1rem;
+}
+
+
+
+
+
+
+/* line 24, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .sliderTienda {
+  display: none;
+}
+
+/* line 26, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .sliderTienda.active {
+  display: block;
+}
+
+#RestaurantesHome .sliderRestaurante {
+  display: none;
+}
+
+/* line 26, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#RestaurantesHome .sliderRestaurante.active {
+  display: block;
+}
+
+/* line 28, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome.bg-gris {
+  background: #f7f7f7;
+}
+
+/* line 30, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .card-body {
+  border: 0px solid black;
+  padding: 2rem 0 0;
+}
+
+/* line 33, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .card-body .card-row {
+  margin-bottom: 1rem;
+}
+
+/* line 35, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .card-body .card-row:last-child {
+  margin-bottom: 0rem;
+}
+
+/* line 37, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .card-body .card-row .card-title {
+  font-size: 15px;
+  color: #030000;
+  letter-spacing: .08em;
+  margin: 0;
+}
+
+/* line 43, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .card-body .card-row .card-text {
+  font-size: 15px;
+  color: #030000;
+  letter-spacing: .08em;
+  margin: 0;
+}
+
+/* line 49, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .card-img {
+  border: 0px solid red;
+  background: #f7f7f7;
+  padding: 3rem 0;
+  margin: auto;
+  text-align: center;
+}
+
+/* line 56, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .card {
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  padding-top: 2rem;
+}
+
+
+
+@media screen and (min-width: 576px) {
+  /* line 56, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+  #TiendasHome .card {
+    padding-top: 4rem;
+  }
+}
+
+/* line 63, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .card img {
+  width: 177px;
+  margin: auto;
+}
+
+@media screen and (min-width: 992px) {
+  /* line 56, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+  #TiendasHome .card-img {
+    height: 273px;
+    box-sizing: border-box;
+  }
+}
+
+
+/* line 66, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .box-subtitle {
+  text-align: center;
+  padding-top: 1.5rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
+}
+
+@media screen and (min-width: 576px) {
+  /* line 66, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+  #TiendasHome .box-subtitle {
+    padding-left: 9rem;
+    padding-right: 9rem;
+  }
+}
+
+/* line 74, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .box-subtitle h3 {
+  font-size: 19px;
+  color: #018137;
+  letter-spacing: .08em;
+  margin: 0;
+}
+
+/* line 80, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .box-title {
+  text-align: center;
+}
+
+/* line 82, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .box-title .separate-line {
+  margin: 0 1rem;
+}
+
+/* line 84, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .box-title .separate-line .line {
+  width: 20px;
+  height: 5px;
+  background: #fcd916;
+}
+
+/* line 88, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .box-title h2 {
+  font-size: 30px;
+  color: #018137;
+  letter-spacing: .08em;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+/* line 95, /Users/carlosespinoza/proyectos/2020/parqueArauco/IO/juntos/assets/editable/sass/_tiendas.sass */
+#TiendasHome .inner-container {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}
