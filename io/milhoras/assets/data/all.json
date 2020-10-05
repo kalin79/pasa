@@ -1,5 +1,26 @@
 [
     {
+        "logo" : "assets/image/logo/negro/con_frutas.png",
+        "logoB" : "assets/image/logo/blanco/con_frutas.png",
+        "wlogo": "w-80",
+        "nombre" : "Módulo con frutas",
+        "titulo" : "", 
+        "subtitulo" : "MODELO2", 
+        "descripcion" : "",
+        "legal": "1 compra por persona y valido hasta agotar stock.",
+        "publish": true,
+        "category": "COMIDAS",
+        "semana": "3",
+        "plantilla": "1",
+        "disclaimer1": "",
+        "disclaimer2": "EN ALFAJORES A 5 SOLES",
+        "disclaimer3": "",
+        "porcentaje": "3 x 2",
+        "texto": "",
+        "precio": "",
+        "preciodecimal": ""
+    },
+    {
         "logo" : "assets/image/logo/negro/diverxia.png",
         "logoB" : "assets/image/logo/blanco/diverxia.png",
         "wlogo": "w-80",
