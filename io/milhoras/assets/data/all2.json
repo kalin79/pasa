@@ -257,25 +257,6 @@
         "texto": ""
     },
     {
-        "logo" : "assets/image/logo/negro/colloky.png",
-        "logoB" : "assets/image/logo/blanco/colloky.png",
-        "wlogo": "w-100",
-        "nombre" : "Colloky",
-        "titulo" : "", 
-        "subtitulo" : "MODELO2", 
-        "descripcion" : "",
-        "legal": "No aplica con otras promociones vigentes.",
-        "publish": true,
-        "category": "COMIDAS",
-        "semana": "3",
-        "plantilla": "1",
-        "disclaimer1": "",
-        "disclaimer2": "En toda la tienda",
-        "disclaimer3": "",
-        "porcentaje": "2 x 1",
-        "texto": ""
-    },
-    {
         "logo" : "assets/image/logo/negro/El.png",
         "logoB" : "assets/image/logo/blanco/El.png",
         "wlogo": "w-100",
