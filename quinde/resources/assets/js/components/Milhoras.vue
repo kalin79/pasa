@@ -9,7 +9,7 @@
                             <div class="header-titular d-flex justify-content-center">
                                 <div class="linea pos1 flotante bgazul"></div>
                                 <div class="box-title bgazul">
-                                    <h2 class="txt-white">DíaS LOCOS</h2>
+                                    <h2 class="txt-white">DíaS LOCOS </h2>
                                 </div>
                                 <div class="linea pos2 flotante bgazul"></div>
                             </div>
