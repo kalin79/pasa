@@ -135,7 +135,7 @@
         "descripcion" : "",
         "legal": "PARTICIPAN PRODUCTOS DESDE S/29,90 / NO COMBINABLE CON OTRAS PROMOCIONES / STOCK DE 1,000 PROMOCIONES O HASTA AGOTAR STOCK / NO PARTICIPAN MASCARILLAS Y LENTES OPTIBLUE / EL DESCUENTO APLICA EN EL PRODUCTO DE IGUAL MENOR VALOR.",
         "publish": true,
-        "category": "OPTICA",
+        "category": "OPTICAS",
         "semana": "3",
         "plantilla": "1",
         "disclaimer1": "",
@@ -1239,8 +1239,8 @@
         "preciodecimal": "" 
     },
     {
-        "logo" : "/assets/images/ofertas/logos/negro/coolbox.png",
-        "logoB" : "/assets/images/ofertas/logos/blanco/coolbox.png",
+        "logo" : "/assets/images/ofertas/logos/negro/Coolbox.png",
+        "logoB" : "/assets/images/ofertas/logos/blanco/Coolbox.png",
         "wlogo": "w-60",
         "nombre" : "Coolbox",
         "titulo" : "", 
