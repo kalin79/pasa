@@ -21,8 +21,8 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "assets/image/logo/negro/.png",
-        "logoB" : "assets/image/logo/blanco/.png",
+        "logo" : "assets/image/logo/negro/lancaster.png",
+        "logoB" : "assets/image/logo/blanco/lancaster.png",
         "wlogo": "w-80",
         "nombre" : "Lancaster",
         "titulo" : "", 
