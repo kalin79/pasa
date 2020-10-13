@@ -105,8 +105,8 @@
         "preciodecimal": ""
     },
     {
-        "logo" : "/assets/images/ofertas/logos/negro/.png",
-        "logoB" : "/assets/images/ofertas/logos/blanco/.png",
+        "logo" : "/assets/images/ofertas/logos/negro/colorvision.png",
+        "logoB" : "/assets/images/ofertas/logos/blanco/colorvision.png",
         "wlogo": "",
         "nombre" : "COLOR VISION",
         "titulo" : "", 
