@@ -1,7 +1,7 @@
 [
     {
-        "logo" : "assets/image/logo/negro/.png",
-        "logoB" : "assets/image/logo/blanco/.png",
+        "logo" : "assets/image/logo/negro/velez.png",
+        "logoB" : "assets/image/logo/blanco/velez.png",
         "wlogo": "w-110",
         "nombre" : "Vélez",
         "titulo" : "Hasta", 
