@@ -42,8 +42,8 @@
         "preciodecimal": ".50"
     },
     {
-        "logo" : "/assets/images/ofertas/logos/negro/.png",
-        "logoB" : "/assets/images/ofertas/logos/blanco/.png",
+        "logo" : "/assets/images/ofertas/logos/negro/vision_center.png",
+        "logoB" : "/assets/images/ofertas/logos/blanco/vision_center.png",
         "wlogo": "",
         "nombre" : "Vision Center",
         "titulo" : "", 
