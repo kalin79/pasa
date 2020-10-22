@@ -1,2 +1,22 @@
 [
+    {	
+        "logo" : "assets/image/logo/negro/hoseg.png",	
+        "logoB" : "assets/image/logo/blanco/hoseg.png",	
+        "wlogo": "w-110",	
+        "nombre" : "hoseg",	
+        "titulo" : "Hasta", 	
+        "subtitulo" : "40",	
+        "descripcion" : "en productos seleccionados",	
+        "legal": "Productos Seleccionados -20% Casacas Adulto (Plumas, Blend). 15% Casacas Hybridas. 15% Hoodies MELANGE one 2.0, dotsy look good. 10% Hoodies CHARCOAL dots y look good. 20% Accesorio (Gorras, Beanies y Medias). 30% Casacas parker Kids. 35% Casacas Pop Kids. 40% Polos Niños",	
+        "publish": true,	
+        "publicarDias": true,	
+        "category": "VESTUARIO",	
+        "semana": "4",	
+        "plantilla": "1",	
+        "disclaimer1": "HASTA",	
+        "disclaimer2": "EN PRODUCTOS SELECCIONADOS",	
+        "disclaimer3": "",	
+        "porcentaje": "40",	
+        "texto": ""	
+    }
 ]
